@@ -1,0 +1,181 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+        @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+        @prefix xml: <http://www.w3.org/XML/1998/namespace> .
+        @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+        @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+        @prefix knora-base: <http://www.knora.org/ontology/knora-base#> .
+        @prefix salsah-gui: <http://www.knora.org/ontology/salsah-gui#> .
+        @prefix roud-oeuvres: <http://www.knora.org/ontology/0112/roud-oeuvres#> .
+        @base <http://www.knora.org/ontology/0112/roud-oeuvres> .
+        @prefix : <http://www.knora.org/ontology/0112/roud-oeuvres#> .
+
+roud-oeuvres:StandoffHead	rdf:type	owl:Class ;
+	rdfs:subClassOf	knora-base:StandoffTag ,
+			[rdf:type	owl:Restriction ;
+			owl:onProperty	:standoffHeadHasType ;
+			owl:cardinality "1"^^xsd:nonNegativeInteger ] ;
+	rdfs:label "head"@en ;
+	rdfs:comment "head"@en ;
+
+roud-oeuvres:standoffHeadHasType	rdf:type	owl:DatatypeProperty ;
+	rdfs:label "type"@en ;
+	rdfs:comment "type"@en ;
+	knora-base:subjectClassConstraint :StandoffHead;
+	knora-base:objectDatatypeConstraint xsd:string .
+
+roud-oeuvres:StandoffHi	rdf:type	owl:Class ;
+	rdfs:subClassOf	knora-base:StandoffTag ,
+			[rdf:type	owl:Restriction ;
+			owl:onProperty	:standoffHiHasRend ;
+			owl:cardinality "1"^^xsd:nonNegativeInteger ] ;
+	rdfs:label "hi"@en ;
+	rdfs:comment "hi"@en ;
+
+roud-oeuvres:standoffHiHasRend	rdf:type	owl:DatatypeProperty ;
+	rdfs:label "rend"@en ;
+	rdfs:comment "rend"@en ;
+	knora-base:subjectClassConstraint :StandoffHi;
+	knora-base:objectDatatypeConstraint xsd:string .
+
+roud-oeuvres:StandoffNote	rdf:type	owl:Class ;
+	rdfs:subClassOf	knora-base:StandoffTag ,
+			[rdf:type	owl:Restriction ;
+			owl:onProperty	:standoffNoteHasResp ;
+			owl:cardinality "1"^^xsd:nonNegativeInteger ] ;
+	rdfs:label "note"@en ;
+	rdfs:comment "note"@en ;
+
+roud-oeuvres:standoffNoteHasResp	rdf:type	owl:DatatypeProperty ;
+	rdfs:label "resp"@en ;
+	rdfs:comment "resp"@en ;
+	knora-base:subjectClassConstraint :StandoffNote;
+	knora-base:objectDatatypeConstraint xsd:string .
+
+roud-oeuvres:StandoffL	rdf:type	owl:Class ;
+	rdfs:subClassOf	knora-base:StandoffTag ;
+	rdfs:label "l"@en ;
+	rdfs:comment "l"@en ;
+
+roud-oeuvres:StandoffLb	rdf:type	owl:Class ;
+	rdfs:subClassOf	knora-base:StandoffTag ;
+	rdfs:label "lb"@en ;
+	rdfs:comment "lb"@en ;
+
+roud-oeuvres:StandoffLg	rdf:type	owl:Class ;
+	rdfs:subClassOf	knora-base:StandoffTag ;
+	rdfs:label "lg"@en ;
+	rdfs:comment "lg"@en ;
+
+roud-oeuvres:StandoffP	rdf:type	owl:Class ;
+	rdfs:subClassOf	knora-base:StandoffTag ;
+	rdfs:label "p"@en ;
+	rdfs:comment "p"@en ;
+
+roud-oeuvres:StandoffQuote	rdf:type	owl:Class ;
+	rdfs:subClassOf	knora-base:StandoffLinkTag ,
+			[rdf:type	owl:Restriction ;
+			owl:onProperty	:standoffQuoteHasSource ;
+			owl:cardinality "1"^^xsd:nonNegativeInteger ] ;
+	rdfs:label "quote"@en ;
+	rdfs:comment "quote"@en ;
+
+roud-oeuvres:standoffQuoteHasSource	rdf:type	owl:DatatypeProperty ;
+	rdfs:label "source"@en ;
+	rdfs:comment "source"@en ;
+	knora-base:subjectClassConstraint :StandoffQuote;
+	knora-base:objectDatatypeConstraint xsd:string .
+
+roud-oeuvres:StandoffRef	rdf:type	owl:Class ;
+	rdfs:subClassOf	knora-base:StandoffLinkTag ,
+			[rdf:type	owl:Restriction ;
+			owl:onProperty	:standoffRefHasTarget ;
+			owl:cardinality "1"^^xsd:nonNegativeInteger ] ;
+	rdfs:label "ref"@en ;
+	rdfs:comment "ref"@en ;
+
+roud-oeuvres:standoffRefHasTarget	rdf:type	owl:DatatypeProperty ;
+	rdfs:label "target"@en ;
+	rdfs:comment "target"@en ;
+	knora-base:subjectClassConstraint :StandoffRef;
+	knora-base:objectDatatypeConstraint xsd:string .
+
+roud-oeuvres:StandoffBody	rdf:type	owl:Class ;
+	rdfs:subClassOf	knora-base:StandoffTag ;
+	rdfs:label "body"@en ;
+	rdfs:comment "body"@en ;
+
+roud-oeuvres:StandoffDateline	rdf:type	owl:Class ;
+	rdfs:subClassOf	knora-base:StandoffTag ;
+	rdfs:label "dateline"@en ;
+	rdfs:comment "dateline"@en ;
+
+roud-oeuvres:StandoffDiv	rdf:type	owl:Class ;
+	rdfs:subClassOf	knora-base:StandoffTag ,
+			[rdf:type	owl:Restriction ;
+			owl:onProperty	:standoffDivHasN ;
+			owl:cardinality "1"^^xsd:nonNegativeInteger ] ;
+	rdfs:label "div"@en ;
+	rdfs:comment "div"@en ;
+
+roud-oeuvres:standoffDivHasN	rdf:type	owl:DatatypeProperty ;
+	rdfs:label "n"@en ;
+	rdfs:comment "n"@en ;
+	knora-base:subjectClassConstraint :StandoffDiv;
+	knora-base:objectDatatypeConstraint xsd:string .
+
+roud-oeuvres:StandoffSeg	rdf:type	owl:Class ;
+	rdfs:subClassOf	knora-base:StandoffLinkTag ,
+			[rdf:type	owl:Restriction ;
+			owl:onProperty	:standoffSegHasCorresp ;
+			owl:cardinality "1"^^xsd:nonNegativeInteger ] ,
+			[rdf:type	owl:Restriction ;
+			owl:onProperty	:standoffSegHasN ;
+			owl:cardinality "1"^^xsd:nonNegativeInteger ] ;
+	rdfs:label "seg"@en ;
+	rdfs:comment "seg"@en ;
+
+roud-oeuvres:standoffSegHasCorresp	rdf:type	owl:DatatypeProperty ;
+	rdfs:label "corresp"@en ;
+	rdfs:comment "corresp"@en ;
+	knora-base:subjectClassConstraint :StandoffSeg;
+	knora-base:objectDatatypeConstraint xsd:string .
+
+roud-oeuvres:standoffSegHasN	rdf:type	owl:DatatypeProperty ;
+	rdfs:label "n"@en ;
+	rdfs:comment "n"@en ;
+	knora-base:subjectClassConstraint :StandoffSeg;
+	knora-base:objectDatatypeConstraint xsd:string .
+
+roud-oeuvres:StandoffPersName	rdf:type	owl:Class ;
+	rdfs:subClassOf	knora-base:StandoffLinkTag ,
+			[rdf:type	owl:Restriction ;
+			owl:onProperty	:standoffPersNameHasRef ;
+			owl:cardinality "1"^^xsd:nonNegativeInteger ] ;
+	rdfs:label "persName"@en ;
+	rdfs:comment "persName"@en ;
+
+roud-oeuvres:standoffPersNameHasRef	rdf:type	owl:DatatypeProperty ;
+	rdfs:label "ref"@en ;
+	rdfs:comment "ref"@en ;
+	knora-base:subjectClassConstraint :StandoffPersName;
+	knora-base:objectDatatypeConstraint xsd:string .
+
+roud-oeuvres:StandoffPlaceName	rdf:type	owl:Class ;
+	rdfs:subClassOf	knora-base:StandoffLinkTag ,
+			[rdf:type	owl:Restriction ;
+			owl:onProperty	:standoffPlaceNameHasRef ;
+			owl:cardinality "1"^^xsd:nonNegativeInteger ] ;
+	rdfs:label "placeName"@en ;
+	rdfs:comment "placeName"@en ;
+
+roud-oeuvres:standoffPlaceNameHasRef	rdf:type	owl:DatatypeProperty ;
+	rdfs:label "ref"@en ;
+	rdfs:comment "ref"@en ;
+	knora-base:subjectClassConstraint :StandoffPlaceName;
+	knora-base:objectDatatypeConstraint xsd:string .
+
+roud-oeuvres:StandoffText	rdf:type	owl:Class ;
+	rdfs:subClassOf	knora-base:StandoffTag ;
+	rdfs:label "text"@en ;
+	rdfs:comment "text"@en ;
+

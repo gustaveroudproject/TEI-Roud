@@ -1,0 +1,18 @@
+#!/usr/bin/expect
+
+# BEFORE LAUNCHING THIS, require path/to/dir of console.sh in the PATH
+# Replace the name of the mapping and the IRI of the ontology in the db with your own
+
+set timeout 120
+spawn console.sh --force --echo --serverURL [lindex $argv 0]
+set prompt "> "
+expect $prompt
+send "open knora-test .\r"
+
+expect $prompt
+# Replace the name of the mapping and the IRI of the ontology in the db with your own
+send "load ./TEIexampleMapping.ttl into http://www.knora.org/ontology/0112/roud-oeuvres .\r"
+
+send "close .\r"
+expect $prompt
+send "exit .\r"
