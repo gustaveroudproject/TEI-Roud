@@ -17,18 +17,18 @@
 
 A standoff mapping in Knora is defined through a XML document and a corresponding standoff ontology (in .ttl, for example), see the [doc](https://docs.knora.org/03-apis/api-v1/xml-to-standoff-mapping/#creating-a-custom-mapping). The XML document should be validated using [mappingXMLToStandoff.xsd](https://github.com/dasch-swiss/knora-api/blob/7efc8960b091ee32cc727857f23ca9d8564e1eae/webapi/src/main/resources/mappingXMLToStandoff.xsd).
 
-Here it is explained how to generate a basic XML document and standoff ontology automatically from the ODD, using two XSLT transformations. The generated files should be checked and refined manually as explained here below.
+Here it is explained **how to generate a basic XML document and standoff ontology automatically from the ODD, using two XSLT transformations**. The generated files should be checked and refined manually as explained here below.
 
-1. Generate the XML document from the ODD, applying [odd2xmlMapping.xsl](odd2xmlMapping.xsl) to the [ODD](TEIexampleODD.xml).
-2. In the XML mapping document generated, check manually
+1. Generate the **XML document** from the ODD, applying [odd2xmlMapping.xsl](odd2xmlMapping.xsl) to the [ODD](TEIexampleODD.xml).
+2. In the XML mapping document generated, **check** manually
 	- the value of the element `<separatesWords>`, which is always 'false' by default. One possibility is to leave the value to 'false' and then control the rendering using the XSLT associated with the mapping, see here below;
 	- add the IRI of the XSLT associated with the mapping, if any. See the [doc](https://docs.knora.org/03-apis/api-v2/tei-xml/): the mapping can have a XSLT associated, for example to produce HTML from TEI or the contrary, depending on the mapping and on what the client is expecting. The IRI of the XSLT should be specified in the `<defaultXSLTransformation>` element; the IRI is obtained loading the XSLT into Knora, for example using [importXSL.py](importXSL.py). 
-3. Create the basic standoff ontology from the XML document generated, applying [xmlMapping2standoffOnto.xsl](xmlMapping2standoffOnto.xsl) to the [XML mapping](TEIexampleMapping.xml).
-4. In the basic onto generated, check manually
+3. Create the basic **standoff ontology** from the XML document generated, applying [xmlMapping2standoffOnto.xsl](xmlMapping2standoffOnto.xsl) to the [XML mapping](TEIexampleMapping.xml).
+4. In the basic onto generated, **check** manually
 	- cardinalities, which are set to 1 by default. From the [doc](https://docs.knora.org/03-apis/api-v1/xml-to-standoff-mapping/#respecting-cardinalities): since an XML attribute may occur once at maximum, it makes sense to make the corresponding standoff property in the ontology required (owl:cardinality of one) or optional (owl:maxCardinality of one), but not allowing it more than once. (The xslt is not capable of generate this, but the info is actually there in the original ODD, in the `@usage` attribute, and it gets lost in the XML mapping .. where to keep it in the XML mapping, if for each attribute one can only specify `<attributeName>`, `<namespace>` and `<propertyIri>`?);
 	- check `knora-base:objectDatatypeConstraint`, whose value is `xsd:string` by default, but could be: `xsd:string`, `xsd:integer`, `xsd:boolean`, `xsd:decimal`, `xsd:anyURI`;
 	- one might also want to refine labels and comments.
-5. Create description file of this mapping in [TEIexampleMapping.json](TEIexampleMapping.json).
+5. Create a **description file** of this mapping in [TEIexampleMapping.json](TEIexampleMapping.json).
 
 
 ## 2. Import the mapping in Knora
