@@ -1,8 +1,8 @@
 # TEIstandoffMapping
 
-1. [Create a TEI standoff mapping for Knora](#1. Create a TEI standoff mapping for Knora);
-2. [import it](#2. Import the mapping in Knora);
-3. [create a resource using it](#3. Create a resource using the mapping).
+1. Create a TEI standoff mapping for Knora;
+2. import it;
+3. create a resource using it.
 
 **Resources:**
 - Knora [doc](https://docs.knora.org/)
