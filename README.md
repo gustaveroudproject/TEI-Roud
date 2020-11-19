@@ -22,7 +22,7 @@ Here it is explained **how to generate a basic XML document and standoff ontolog
 1. Generate the **XML document** from the ODD, applying [odd2xmlMapping.xsl](odd2xmlMapping.xsl) to the [ODD](TEIexampleODD.xml).
 2. In the XML mapping document generated, **check** manually
 	- the value of the element `<separatesWords>`, which is always 'false' by default. One possibility is to leave the value to 'false' and then control the rendering using the XSLT associated with the mapping, see here below;
-	- add the IRI of the XSLT associated with the mapping, if any. See the [doc](https://docs.knora.org/03-apis/api-v2/tei-xml/): the mapping can have a XSLT associated, for example to produce HTML from TEI or the contrary, depending on the mapping and on what the client is expecting. The IRI of the XSLT should be specified in the `<defaultXSLTransformation>` element; the IRI is obtained loading the XSLT into Knora, for example using [importXSL.py](importXSL.py). 
+	- add the IRI of the **XSLT** associated with the mapping, if any. See the [doc](https://docs.knora.org/03-apis/api-v2/tei-xml/): the mapping can have a XSLT associated, for example to produce HTML from TEI or the contrary, depending on the mapping and on what the client is expecting. The IRI of the XSLT should be specified in the `<defaultXSLTransformation>` element; the IRI is obtained loading the XSLT into Knora, for example using [importXSL.py](importXSL.py). 
 3. Create the basic **standoff ontology** from the XML document generated, applying [xmlMapping2standoffOnto.xsl](xmlMapping2standoffOnto.xsl) to the [XML mapping](TEIexampleMapping.xml).
 4. In the basic onto generated, **check** manually
 	- cardinalities, which are set to 1 by default. From the [doc](https://docs.knora.org/03-apis/api-v1/xml-to-standoff-mapping/#respecting-cardinalities): since an XML attribute may occur once at maximum, it makes sense to make the corresponding standoff property in the ontology required (owl:cardinality of one) or optional (owl:maxCardinality of one), but not allowing it more than once. (The xslt is not capable of generate this, but the info is actually there in the original ODD, in the `@usage` attribute, and it gets lost in the XML mapping .. where to keep it in the XML mapping, if for each attribute one can only specify `<attributeName>`, `<namespace>` and `<propertyIri>`?);
@@ -37,6 +37,13 @@ Here it is explained **how to generate a basic XML document and standoff ontolog
 ```bash
 ./load-standoff-onto.expect http://localhost:7200
 ```
+
+2. Import the XSLT if haven't done it yet (see above)
+```bash
+python importXSL.py
+```
+It will give us back the IRI, to be inserted in the XML mapping.
+
 
 2. Restart Knora
 ```bash
@@ -56,7 +63,7 @@ curl -u root@example.com:test -X POST -F json=@TEIexampleMapping.json -F xml=@TE
 	- in the project local dir, load ontologies and lists, probably using a customized *load-onto-and-data.expect*;
 	- goes back to 2.2 here above.
 
-**More on the XSLT default transformation**. Check the permissions on the XSLT in the db, if it is not working. In the development phase, one may want to update *only* the XSLT, without changing the mapping. This can be done by editing the local file, stored in the local SIPI dir; Knora renamed it when loading it: to find it, check the filename, associated with the XSLT IRI, in the db. Once you find it, edit, save and restart Knora to make it work.
+**More on the XSLT default transformation**. Check the permissions on the XSLT in the db, if it is not working. In the development phase, one may want to update *only* the XSLT, without changing the mapping. This can be done by editing the local file, stored in the local SIPI dir (Knora renamed it when loading it: to find it, check the filename, associated with the XSLT IRI, in the db. Once you find it, edit, save and restart Knora to make it work).
 
 
 
