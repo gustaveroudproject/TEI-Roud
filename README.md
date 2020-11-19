@@ -45,12 +45,12 @@ python importXSL.py
 It will give us back the IRI, to be inserted in the XML mapping.
 
 
-2. Restart Knora
+3. Restart Knora
 ```bash
 make stack-restart-api
 ```
 
-3. Load the XML mapping. It will give us back the IRI of the mapping, composed by the IRI of the project and the value of the `:mappingHasName` property. Attention: the db cannot store two different mappings with the same name, need to change the value of the `:mappingHasName` property each time.
+4. Load the XML mapping. It will give us back the IRI of the mapping, composed by the IRI of the project and the value of the `:mappingHasName` property. Attention: the db cannot store two different mappings with the same name, need to change the value of the `:mappingHasName` property each time.
 ```bash
 curl -u root@example.com:test -X POST -F json=@TEIexampleMapping.json -F xml=@TEIexampleMapping.xml http://localhost:3333/v2/mapping
 ```
