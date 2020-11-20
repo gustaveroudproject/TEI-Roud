@@ -57,7 +57,7 @@
         <xsl:text>"@en ;</xsl:text>
         <xsl:text>&#xa;&#09;rdfs:comment "</xsl:text>
         <xsl:value-of select="./tag/name"/>
-        <xsl:text>"@en ;</xsl:text>
+        <xsl:text>"@en .</xsl:text>
         <xsl:text>&#xa;&#xa;</xsl:text> <!-- line breaks -->
         
         
