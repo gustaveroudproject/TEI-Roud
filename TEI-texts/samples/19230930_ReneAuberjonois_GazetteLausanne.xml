@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../createMapping/createODD/Roma/roudMapping12_0.1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../createMapping/createODD/Roma/roudMapping12_0.1.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<text>
+    <body>
+        <div n="Exposition">
+            <note resp="GustaveRoud">Exposition, au <placeName
+                    knoraLink="http://rdfh.ch/0112/6E2ONBGbQCu37Hepso8ZLQ"
+                    ref="http://rdfh.ch/0112/6E2ONBGbQCu37Hepso8ZLQ">Kunstmuseum de Zurich</placeName>,
+                d’une trentaine de toiles de l’artiste, formant le « troisième groupe du don d’<persName
+                    knoraLink="http://rdfh.ch/0112/XnyEtJeCToOd8nTs4QCwWg"
+                    ref="http://rdfh.ch/0112/XnyEtJeCToOd8nTs4QCwWg">un Bâlois ami de
+                l’art</persName> ».</note>
+            <p>
+                <quote knoraLink="http://rdfh.ch/0112/vR6lkivuS5q-eA4QKTCV8A"
+                    source="http://rdfh.ch/0112/vR6lkivuS5q-eA4QKTCV8A">Tandis que le monde du poème
+                    est essentiellement fermé et complet en lui-même, étant le système pur des
+                    ornements et des chances du langage, l’univers du roman, même du fantastique, se
+                    relie au monde réel, comme le trompe-l’œil se raccorde aux choses tangibles
+                    parmi lesquelles le spectateur va et vient.</quote>
+            </p>
+            <p>Rien de plus dangereux que la tendance à rechercher de strictes équivalences entre
+                les divers arts ; l’arbitraire et la confusion, voilà où l’on glisse tout
+                naturellement. Et que de victimes, le <ref
+                    knoraLink="http://rdfh.ch/0112/QHmyF0ojREi_C2nA0gMW9Q"
+                    target="http://rdfh.ch/0112/QHmyF0ojREi_C2nA0gMW9Q">sonnet de Baudelaire</ref> !
+                Mais la remarque de Valéry que nous citons peut, si l’on en opère avec de
+                suffisantes précautions la transposition dans le domaine de la peinture, nous être
+                de quelque utilité.</p>
+            <p>Il nous est loisible, en effet, d’imaginer une peinture correspondant au roman et que
+                l’on pourrait nommer « directe ». Le peintre, jusqu’à la dernière touche, reste
+                l’esclave de son regard. L’univers qu’il <hi rend="italic">reproduit</hi> « se
+                relie au monde réel » ; le spectateur ingénu passe de l’un à l’autre en toute
+                sécurité, avec le seul souci de contrôler leur mutuelle ressemblance. Dans un tel
+                ordre de peinture, où le tableau est considéré comme un « moyen de restitution » et
+                rien de plus, il va sans dire que le sujet prend et garde une importance
+                considérable, que de son choix dépend, ou presque, la valeur du tableau : simple
+                écho, sa scrupuleuse limpidité fait son mérite. Plus il répète (pourrait-on ajouter
+                avec un sourire) et moins il parle, plus il approche de la perfection.</p>
+            <p>En face de cette peinture directe, il est plus difficile de définir celle que nous
+                appellerons « pure », monde essentiellement fermé et complet, « système pur des
+                ornements et des chances » du dessin et de la couleur. La seule conception d’un art
+                pareil implique toute une longue évolution mentale, une sorte de décantation
+                spirituelle que ne peut remplacer nulle explication, si claire soit-elle. Le peintre
+                pur ne considère plus le monde extérieur comme un spectacle organisé dont
+                l’architecture lisible se puisse couramment transcrire. Son regard n’est pour lui
+                qu’un chasseur infatigable : parmi les riches proies qu’il offre à sa méditation, il
+                s’agit de faire un choix. De cet ensemble de matériaux il devra éprouver les
+                solidités diverses, afin de n’employer que ce qui est durable pour sa construction.
+                Construction, voilà le grand mot lâché, et dont notre époque fait un tel abus.
+                Cependant il le faut employer ici : il indique mieux que tout autre la nature de
+                cette mystérieuse opération de l’esprit. Construire, ce sera regrouper ces matériaux
+                choisis selon un ordre nouveau, d’autant plus puissant que les dons de l’artiste se
+                joindront à ceux du peintre. Le tableau devient quelque chose de <hi rend="italic"
+                    >créé</hi> ; ce n’est plus une reproduction ; il est essentiellement fermé et
+                complet. Il n’a plus <hi rend="italic">aucun lien</hi>, sinon allusif, avec le
+                monde extérieur : c’est un être nouveau vivant de sa propre vie. Chose terrible, il
+                n’est pas ressemblant, car il ne répète rien, mais parle. Les spectateurs ingénus
+                crient au scandale.</p>
+            <p>Qu’on nous pardonne cette image rapide : le monde extérieur est semblable à quelque
+                immense alphabet. Le peintre direct se rue sur sa toile et sans relâche transcrit :
+                a, b, c, d, a, b, c, d… en majuscules ou en minuscules, suivant son audace. Plus il
+                a de talent, plus il enjolive les lettres. On le regarde faire, on répète derrière
+                lui « A, b, c, d… Comme c’est juste, que c’est bien cela ! » Le peintre pur
+                lentement choisit, assemble ses caractères, et il y a quelques hommes pour lire la
+                    <hi rend="italic">phrase</hi> qu’il écrit et que lui seul pouvait écrire.</p>
+        </div>
+        <div n="[Tant de mots]">
+            <p>Tant de mots avant d’aborder le véritable objet de notre étude, l’œuvre
+                d’Auberjonois, n’étaient peut-être pas superflus, car il est un des tenants les plus
+                remarquables de cette peinture pure que nous avons tenté de définir. Ses tableaux,
+                d’une résonance si riche au regard et à l’esprit, ne nous révèlent que lentement
+                l’extraordinaire complexité d’un artiste qui a si peur de laisser jouer sa
+                sensibilité à vide et montre une telle intransigeance sur le sujet de la
+                sincérité.</p>
+            <p>Il appartient à cette famille d’esprits qui considèrent que la perfection d’une œuvre
+                n’est atteinte qu’au prix d’un sacrifice et d’un contrôle perpétuels. Ne laissant
+                rien subsister qui n’ait valeur intrinsèque et non de liaison seulement,
+                profondément saisi de cette vérité si longtemps oubliée par l’impressionnisme :
+                peindre n’est pas confectionner un ragoût de taches colorées, mais organiser une
+                surface au moyen d’éléments lentement assemblés, il conduit patiemment son œuvre à
+                son point de saturation, si l’on peut dire, et ne l’abandonne pas qu’elle n’ait
+                atteint sa parfaite plénitude expressive. Il rend vraiment un sens au mot tableau ;
+                et chacune de ses toiles, d’une unité puissante, est bien un monde essentiellement
+                fermé et complet.</p>
+            <p>Non que cette création s’accomplisse dans la sérénité.</p>
+            <p>Auberjonois (nous abordons ici le tragique conflit qui se déroule en lui entre le
+                peintre et l’artiste) éprouve une horreur native pour tout geste créateur qu’un
+                commencement d’habitude risque de rendre aisé – mieux : irréfléchi. Crime insigne à
+                ses yeux, celui de laisser sa sensibilité s’enchanter elle-même au point de peindre
+                sans y être contraint par ce mouvement étrange de l’âme, imprévisible, impossible à
+                provoquer, et qui vient mourir à la froide lumière de l’esprit. Ne pas poser une
+                touche, une seule, qui ne soit révélatrice de ce qu’il faut bien appeler
+                inspiration, ce lui est une nécessité profonde.</p>
+            <p>On devine alors les douloureux scrupules qui peuvent naître d’une pareille répulsion
+                à l’endroit de la virtuosité, de l’habileté même ; leur force paralysante, le
+                peintre désespère parfois de la briser et tourne les yeux vers ceux des primitifs
+                dont les œuvres respirent cette sérénité qui lui a été refusée. Son tort est de leur
+                emprunter – rarement – des moyens expressifs perdant leur puissance sitôt isolés par
+                l’analyse.</p>
+            <p>Sans tendre au paradoxe et négligeant ces ressemblances voulues et du reste
+                intermittentes, nous serions tenté de l’appeler un primitif. Un primitif saisit avec
+                une extrême lucidité l’ensemble des lois régissant toute décoration de surface, et
+                traite fort librement les éléments fournis en petit nombre par sa vision. Libéré
+                déjà d’exclusives allusions géométriques, il réduit instinctivement la diversité du
+                spectacle extérieur à une série de formes simples qu’il combine à son gré.</p>
+            <p>Auberjonois part, lui aussi, d’un petit nombre d’éléments empruntés à la réalité et
+                les traite avec la même rigueur souveraine. Durant le long laps de méditation entre
+                le regard et la touche, ces données sensibles réfléchies aux multiples facettes de
+                sa complexité spirituelle se transforment lentement en quelque chose de nouveau et
+                d’étrange. Chaque toile devient un monde d’une profonde attirance – non pas
+                imaginaire : le rêve, Dieu merci, n’entre pas en jeu – mais où ce qui était
+                seulement possible dans la réalité est devenu réel, et qui défie l’analyse.</p>
+            <p>S’il y a <seg n="quelques_endroits" corresp="xx" knoraLink="xx">quelques endroits de son dessin</seg>, fort rares du reste, où la déformation
+                cesse soudain d’être indispensable à l’articulation du tableau pour trahir un
+                sourire amusé du peintre, ou ce désir passionné de rejoindre une naïveté perdue qui
+                doucement fait dévier sa main comme celle d’un enfant, on le voit acquérir de toile
+                en toile une science de la couleur quasi-prodigieuse. Et les accords dont il joue à
+                miracle lui étaient en quelque sorte promis : ils gisaient dans son esprit ; toute
+                sa recherche n’a fait que les purifier lentement jusqu’à la résonance parfaite.</p>
+            <p>Les harmonies roses et bleues du début font place aux jeux acides et savoureux des
+                verts froids, des roses et des ocres de la <ref
+                    knoraLink="http://rdfh.ch/0112/RPM9AIaxST2d4PFq_p3h5A"
+                    target="http://rdfh.ch/0112/RPM9AIaxST2d4PFq_p3h5A">Nature morte au
+                violon</ref>. Les toiles de 1916, 1917, 1918 marquent l’extrême de la rupture des
+                tons : le délice d’une seule couleur pure éclot au centre de mille échos d’une
+                insurpassable délicatesse. Magie musicale et profonde de la Nature morte au
+                perroquet, du Portrait du peintre G. F., du Dompteur de lions, de la Dame turque
+                fumant ! Puis la gamme redevient claire, sans rien perdre de sa richesse – et le
+                peintre crée enfin cette Baigneuse d’une matière sans prix, récompense magnifique de
+                sa longue recherche inquiète au sein d’une noble solitude.</p>
+            <p>Faut-il voir dans cette solitude même le secret de l’indifférence des Vaudois pour un
+                de leurs meilleurs artistes ? Alors que la Suisse alémane sait rendre justice à ce
+                peintre d’une qualité si rare, alors que la consécration définitive du musée est
+                accordée au meilleur de son œuvre, la Suisse romande reste silencieuse. On
+                chercherait en vain ne fût-ce qu’un dessin d’Auberjonois au Musée de sa ville
+                natale.</p>
+            <p>Sans doute est-il vain de relever une si griève injustice. Mais nous nous répéterions
+                avec moins d’amertume que nul n’est prophète en son pays, si le nôtre ne répandait
+                une telle admiration aux pieds de ses faux prophètes.</p>
+        </div>
+    </body>
+</text>

@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<knoraXmlImport:resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://api.knora.org/ontology/knoraXmlImport/v1# p0112-roud-oeuvres-xml-schemas/p0112-roud-oeuvres.xsd"
+    xmlns="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#"
+    xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#"
+    xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+    
+    <p0112-roud-oeuvres:EstablishedText id="texte_Adieu_1927">
+        <!-- The first child element of each resource must be a knoraXmlImport:label
+            , which will be stored as the resource's rdfs:label -->
+        <knoraXmlImport:label>texte_Adieu_1927</knoraXmlImport:label>
+        <!-- properties must be sorted in alphabetical order by property name -->
+        <!-- The type of each value must be specified using the attribute knoraType -->
+        <!-- A link to another resource described in the XML import is represented as a child element of a property element, with attributes knoraType="link_value" and linkType. The value of linkType is "ref" if the target is given in the same bulk import and in this case the target attribute contains the ID of the target resource. Otherwise the value of linkType is "iri" and the attribute target contains a link to the IRI
+        of the resource already in the triplestore. -->
+        
+        <establishedTextHasEditorialSet knoraType="hlist_value">http://rdfh.ch/lists/0112/roud-oeuvres-flatlist-hasEditorialSet-oeuvrePoetique</establishedTextHasEditorialSet>
+        
+        <establishedTextHasTitle knoraType="richtext_value">Adieu</establishedTextHasTitle>
+        
+        <hasDirectSourcePublication>
+            <Publication knoraType="link_value"  linkType="iri" target="http://rdfh.ch/0112/K2OVZydJS42GUsMJvKhP-A"/>
+        </hasDirectSourcePublication>
+        
+        <hasTextContent knoraType="richtext_value"
+            mapping_id="http://rdfh.ch/projects/0112/mappings/roud_mapping11">
+            <text xmlns="">
+                
+                <body>
+                    <head type="main">Adieu</head>
+                    <div n="[à Edmond Thévoz]">
+                        <p>à <persName ref="http://rdfh.ch/0112/3FyniJqgSSiXk0E2ZjYguA"
+                            knoraLink="http://rdfh.ch/0112/3FyniJqgSSiXk0E2ZjYguA">Edmond Thévoz</persName></p>
+                        <p>L’auteur s’excuse de donner ici deux moments d’un Adieu qu’il n’a jamais dit. Le premier
+                            n’en tente que l’annonce, il est vrai, mais avec une emphase mortelle au simple chant
+                            qui devait naître. Le deuxième essaie mieux d’atteindre son presque insaisissable objet,
+                            parmi l’obscure mêlée du rêve, de la prière et du désespoir. L’auteur demande quelque
+                            indulgence pour cette double <hi rend="italic">tentative</hi> qui, lui-même,
+                            profondément le déconcerte – à cette heure où quitté par la Poésie, et pour jamais,
+                            retournant sans nulle cesse, comme un fol, vers les lieux où son être spirituel jadis a
+                            pris forme, il y attend encore, mais en vain, la Parole qui ne jaillira plus.</p>
+                    </div>
+                    <div n="[Cube de corps et de fumée]">
+                        <lg>
+                            <l>Cube de corps et de fumée, et calme bouge !</l>
+                            <l>La cendre qu’un doigt sec brise au cigare mort</l>
+                            <l>Comme elle je vais choir d’un choc de ta main rouge</l>
+                            <l>Servante aux brusques bonds sous les trois lampes d’or.</l>
+                        </lg>
+                        <lg>
+                            <l>À travers vos lueurs plus douces qu’un lac d’huile</l>
+                            <l>Lampes, mon corps sans poids monte, nageur léger,</l>
+                            <l>Et laissant le sommeil rompre une paix fragile,</l>
+                            <l>Glisse au gouffre où sans cris ses ruses l’ont plongé.</l>
+                        </lg>
+                        <lg>
+                            <l>Renaître ! Comme un roc saisir la table sombre !</l>
+                            <l>Je rends à mes yeux purs un soir couleur de miel.</l>
+                            <l>Au centre de mon poing, pêcheur surgi de l’ombre,</l>
+                            <l>Scintille une liqueur comme un joyau mortel.</l>
+                        </lg>
+                        <lg>
+                            <l>Servante (mon poing tonne aux tables) fille avide,</l>
+                            <l>Viens paître ton troupeau, tes breuvages sont bus !</l>
+                            <l>Et tourne aussi vers moi l’adieu d’un regard vide :</l>
+                            <l>Je suis celui qui part et ne reviendra plus.</l>
+                        </lg>
+                        <lg>
+                            <l>Toute une nuit m’attend pleine de ta présence,</l>
+                            <l>Frère en moi comme un mort qu’il faut ensevelir.</l>
+                            <l>Ô durs bondissements de mon impatience,</l>
+                            <l>Ô voix fiévreuse en moi toute prête à jaillir !</l>
+                        </lg>
+                        <lg>
+                            <l>Puissé-je, pâle route aux rives d’herbe rase,</l>
+                            <l>Fleuve où les jardins noirs versent leurs froids parfums,</l>
+                            <l>D’une ombre lentement captive de ma phrase</l>
+                            <l>Dénouer à mon col les gestes importuns !</l>
+                        </lg>
+                        <lg>
+                            <l>Ton corps sous les soleils fauves, ta chair heureuse,</l>
+                            <l>Tes yeux comme une eau pure à mon cœur déchiré,</l>
+                            <l>Et cette paix profonde (ô nuit mystérieuse)</l>
+                            <l>Où ta vie en riant divise un air doré,</l>
+                        </lg>
+                        <lg>
+                            <l>Frère : voici le chant rompre ma lèvre aride</l>
+                            <l>Qui me délivrera de ce tiède fardeau !</l>
+                            <l>Flambe, fumée et feu, bûcher de mots perfide !</l>
+                            <l>Consume ce cadavre, éblouissant tombeau !</l>
+                        </lg>
+                        <lg>
+                            <l>Et rendue à la nuit cette cendre funèbre,</l>
+                            <l>L’aurore accueillera dans ses gouffres glacés</l>
+                            <l>Ton flux vertigineux de givre et de ténèbre,</l>
+                            <l>Ô ciel étincelant de mes songes blessés !</l>
+                        </lg>
+                    </div>
+                    
+                    <div n="Adieu">
+                        <head type="h1">Adieu</head>
+                        <p>Route aiguë au cœur du village rose là-bas comme une flèche, ah par pitié rejette sur ta
+                            rive ce corps brisé par ta houle de poussière et de parfums, les mains percées de taons
+                            et qui étouffe. Je sais ! Quel cadavre frôlé de fleurs vivantes, à l’heure de la rosée,
+                            sous l’arbre obscur où brille un chant d’oiseau limpide comme une étoile ! Mais j’aurai
+                            dit mon adieu sans larmes ! Voici naître aux feuillages la longue plainte harassée et
+                            sourde et si triste où mon cœur a reconnu le chant même de sa voix perdue. Ô pour une
+                            heure encore qu’elle jaillisse de mon désert, celle qui m’a chassé jadis vers le monde
+                            comme vers une proie. Qu’elle se nourrisse d’elle-même comme une flamme parmi l’extase,
+                            la fièvre, les songes, avant le retour du silence et la victoire de ce sommeil qui me
+                            divisera jusqu’à la mort.</p>
+                        
+                        <p>
+                            <hi rend="italic">La mort <lb/><ref
+                                knoraLink="http://rdfh.ch/0112/BbtC-sQjSpe9DCDpKn_sug"
+                                target="http://rdfh.ch/0112/BbtC-sQjSpe9DCDpKn_sug">la sora nostra morte corporale
+                                la sora nostra morte corporale</ref> notre sœur ; il y a un homme sur le mur du
+                                cimetière, la tête nue et les yeux fermés ; ses lèvres ridiculement remuent. Que de
+                                fois que de fois déjà parmi ces tombes, <seg n="orage_de_marbre"
+                                    corresp="http://rdfh.ch/0112/CfKVo7YtR6inO62kqsAiow#orage_de_marbres"
+                                    knoraLink="http://rdfh.ch/0112/CfKVo7YtR6inO62kqsAiow#orage_de_marbres">orage de
+                                    marbre figé</seg> qu’imitent les nuages plus aveuglants encore ou plus sombres !
+                                Ce matin sous le soleil pur et froid, battu par la bise encore douce, je regarde
+                                au-dessus de la ville un lac verdâtre et bleu dans la brume. Épanouies, évanouies,
+                                les vagues de craie pareilles à ma vaine pensée ! 
+                                <!--dans le journal, le 8 août 1926, « et la petite fille quand le soir tombe monte au cimetière les mains pleines de pensées »-->
+                                Une petite fille s’agenouille, et prie les mains pleines de pensées
+                                <lb/>che da te Altissimo saranno incoronati<lb/>– comme elle s’agenouilleront les
+                                Anges pour cueillir les couronnes de pensées.</hi>
+                        </p>
+                        
+                        <p>
+                            <hi rend="italic">
+                                <!-- Phrase reprise du Journal de 1926 -->Adieu ô ville touchée par le soleil du
+                                soir<!--jusqu'ici-->, quand la foule abandonnant la jetée où l’air fraîchit remonte vers la
+                                nourriture et vers les lampes. À l’aube, un misérable ivre de poussière et de sommeil
+                                trébuche aux pavés nus, retombe aux rêves. Folie de toutes ces présences ! <!-- Le passage de  « mes rêves déjoués » à  « ma main paysanne » est repris du Journal (1926), dans le passage de  « mes rêves déjoués » à  « ma main paysanne ». -->Ô
+                                mes rêves déjoués, cette longue nuit que j’attendais depuis des années, Thévoz,
+                                moi-même avec moi-même jusqu’à l’aurore, quelle dérision, quelle défaite ! Une
+                                lampe horrible, vivante et cruelle comme un diamant une à une brûle mes pensées,
+                                et sur le feuillet pâle pose l’ombre de ma main paysanne.<!--jusqu'ici--></hi>
+                        </p>
+                        <p>L’ombre d’une sauge tache mes mains fermées.</p>
+                        
+                        <p>Vous le savez, mon Dieu, ce n’est pas le bonheur que j’ai cherché sur les routes qui
+                            traversent les saisons et les années et je n’ai pas non plus tiré jouissance de mes
+                            larmes comme l’enseigne la mélancolie. 
+                            <!-- On retrouve la formulation « de quels abîmes jailli » plusieurs fois dans l’œuvre, notamment dans une note de journal de 1916 (voir Journal, p. #) ; dans les textes poétiques « L’énigme » (« Le cerisier fleuri », Aujourd’hui, 1930, voir p. #) ; ou « À cette heure où déjà (1916) » (Revue de Belles-Lettres, 1932, voir p. #) -->
+                            De quels abîmes jailli<!--jusqu'ici--> ! jeté parmi des hommes aveugles, j’ai souffert sans
+                            orgueil de ma différence, ivre d’une solitude qui me rendait le monde. Dans leurs hautes
+                            maisons roses mêlées à l’herbe fraîche, immobiles dans la lueur des lampes ou debout,
+                            moissonneurs fauves, les pieds troués de chaumes dans une agonie de soleil, jardiniers
+                            sans fatigue d’un immense jardin d’herbages et de fleurs fleuries sous le ciel, ces
+                            hommes, ces captifs de l’ombre, de la lumière, de leur vie, mon chant les arrachait à
+                            l’abîme du temps, leur rendait leur native innocence. Aimé ! la dernière gerbe jetée sur
+                            la haute charge de paille qui tremble, c’est mon poème qu’elle couronne, ô faucheur de
+                            froments, et l’ombre sournoise en vain monte vers ton épaule nue. Qui a vaincu ma
+                            ferveur ? Est-ce Vous, mon Dieu, qui m’avez fait retomber au silence ? Votre silence
+                            même est terrible. Ah prenez pitié de cet homme à la gorge rompue ! <seg
+                                n="la_nuit_monte"
+                                corresp="http://rdfh.ch/0112/CfKVo7YtR6inO62kqsAiow#ainsi_naissent_etoiles"
+                                knoraLink="http://rdfh.ch/0112/CfKVo7YtR6inO62kqsAiow#ainsi_naissent_etoiles">
+                                <!-- note de journal du 16 mars 1924 --> La nuit monte et du jour mort vont naître
+                                les étoiles <ref target="http://rdfh.ch/0112/WDYKY7NKTM6r9815OBxoLw"
+                                    knoraLink="http://rdfh.ch/0112/WDYKY7NKTM6r9815OBxoLw">comme les abeilles hors du
+                                    taureau d’Aristée</ref></seg>. Ô constellations implacables, figures immortelles
+                            de mes fautes, de mes songes, de mes fuites, reverrez-vous encore cette face aux lèvres
+                            closes tourner ses yeux souillés de larmes vers votre étincelante cruauté ? Seigneur, à
+                            ces lèvres rendez leur souffle – le temps d’une phrase, d’un chant, d’un cri.</p>
+                        <p>
+                            <hi rend="italic">On danse dans tous les villages, Aimé, que choisirons-nous, le plus
+                                joli nom, la plus belle danseuse ? Lussery, Molondin, Prévonloup, Chesalles, et Rose
+                                aurait mis son collier de corail, mais Lucie à son poignet ce petit cœur d’argent
+                                avec une pierre bleue. <lb/>Tu dors. <lb/>L’ombre du vin transparent touche ta main
+                                fermée. C’est l’auberge sous les cerisiers d’argent. L’odeur de miel et de résine
+                                coule sur ton sommeil comme une pluie. Doucement servante, qu’un seul doigt contre le
+                                cristal tinte, et se brise un rêve sans retour. <lb/>Est-ce mon rêve qui se brise ?
+                                Ici la haie, la haie et la forêt de soie où sombre le soleil ! Tu respires une
+                                églantine couleur de lèvres. Hors du linge un bras pur calme une faux éblouissante,
+                                l’autre penche aux narines la coupe étroite entre l’épine et le feuillage.
+                                <lb/>Aimé ! <lb/>Toute une prairie de fleurs mûres à tes genoux déferle, ô faucheur
+                                fauve et fin ; tu les tranches, elles tombent en tumulte, la sombre sauge, la
+                                marguerite et les corolles sans nom que jadis j’ai tant aimées, ce bleu de source et
+                                d’orage, la couleur même de ton regard.</hi>
+                        </p>
+                        <p>L’ombre d’une sauge touche ma main fermée. Où suis-je ? Ô Dieu ne me livrez pas à la
+                            nuit ! Vous qui m’avez retiré du bord extrême de l’abîme (et déjà je ne pleurais plus et
+                            la mort proche, la vision et le désir de la mort proche comme une riche oasis endormie
+                            sous les palmes), Vous qui m’avez parlé Seul à seul dans l’église éternelle où luisent
+                            les vases d’argent froid parmi l’encens (une aile de lumière à la voûte comme un ange
+                            immobile) oh, Seigneur, pitié ! C’est l’ombre, c’est l’ombre qui coule sur mon corps et
+                            m’aveugle ; voici briller le rire innombrable de Vos étoiles. L’arbre au-dessus de moi
+                            chante de toutes ses furieuses feuilles dans le vent profond. Par pitié ne scellez pas à
+                            jamais ces lèvres indignes !</p>
+                        <p>L’ombre n’est pas si triste. Elle a pris mes mains comme une caresse. Elle a fait choir
+                            ma fièvre comme un linge immonde. Est-ce enfin ma vraie voix ce murmure sans prière et
+                            sans cris ? <hi rend="italic">Viens ô frère vivant que j’abandonne ; écrase doucement
+                                les fleurs glacées. Laisse à ton épaule pour un peu de temps encore poser ma tête
+                                <lb/>adieu. <lb/>Demain le soleil sur mon silence, les pierres des enfants, les
+                                insultes des femmes ; les hommes autour de cet homme perdu qui a tout oublié et ne
+                                sait pas mentir. <lb/>adieu. <lb/>Ô le soleil d’août sur les moissons anciennes quand
+                                la vallée tout entière chancelle dans les vagues de chaleur transparente et ta
+                                profonde poitrine nue baigne au fleuve de l’azur sans fond ! Qu’il faisait chaud
+                                parmi les seigles plus hauts que nos épaules, plus hauts que nos visages! <lb/>adieu.
+                                <lb/>Retourne à ton naïf bonheur. Ta lampe là-bas troue la ténèbre d’un long bras
+                                fauve. Qu’y a-t-il entre nous ? Une fois encore dans ta main ma main maladroite.
+                                <lb/>adieu.</hi></p>
+                        <p>La pâle route à travers la nuit comme un fleuve de lait va reprendre ce misérable et ses
+                            rauques litanies. Debout mendiant ivre parmi tes croûtons secs et tes blasphèmes ! Les
+                            chiens surveillent le bonheur des hommes.</p>
+                        <dateline>Novembre 1922 <lb/>Juillet 1927</dateline>
+                    </div>
+                </body>
+                
+            </text>
+        </hasTextContent>
+    </p0112-roud-oeuvres:EstablishedText>
+    
+
+</knoraXmlImport:resources>

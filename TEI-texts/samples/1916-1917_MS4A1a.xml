@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="roudMapping.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="roudMapping.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<text>
+   <body>
+      <head type="main">Cahier « Mai 16-mars 17 », 1916-1917 (MS 4 A/1a)</head>
+      <div n="I">
+         <head rend="p">I</head>
+         <dateline>
+            <supplied>mai 1916</supplied>
+         </dateline>
+         <p>… je sais que je ne pourrai jamais remercier…<add>c’était un Bellettrien qui
+            s’appelait <persName knoraLink="http://rdfh.ch/0112/rY6HC2qiQZmbSQadmOSchA"
+               ref="http://rdfh.ch/0112/rY6HC2qiQZmbSQadmOSchA">Camilleri</persName></add>
+            de sa bonté. – Parce qu’il ne me connaît pas, et que jamais personne ne me
+            connaîtra… Du reste ce n’est pas ce que je demande ; seulement ça me fait
+            terriblement mal de voir que c’est toujours comme à un inconnu, et que ça ne dépasse
+            jamais les limites de la simple politesse. J’ai eu la gorge serrée et une atroce
+            envie de pleurer. <lb/>Une cloche sonne sans arrêt ; ça me fait penser à ces cloches
+            qu’a entendues le paysan solitaire avant de se tuer. Je suis dans cette salle de la
+            <placeName ref="http://rdfh.ch/0112/qrWdXWfmSpKhFKnLHwhJ3g"
+               knoraLink="http://rdfh.ch/0112/qrWdXWfmSpKhFKnLHwhJ3g">Bibliothèque
+               cantonale</placeName>, et pourtant je pense à ce chemin où j’ai tant de fois
+            pleuré – et surtout de ce qu’il fallait, de ce que je ne pouvais pas ne pas me
+            séparer de la vie. <lb/>En arrière, Hermenches, Vucherens. On entend à intervalles
+            irréguliers les coups des joueurs de quilles : peut-être qu’ils sont tous autour de
+            cette planche humide, qu’il y a des verres à demi vides et de gros rires et des
+            cigares qu’on mâche et roule en parlant. Et que de rires si je passais vers eux,
+            parce que je ne suis pas comme eux et que j’ai essayé de leur dire bonsoir – à mes
+            frères<supplied>.</supplied> Ils le sont autant qu’à la Ville, car que suis-je
+            devant ces jeunes gens en bande, et qui causent bien, et qui sont spirituels et qui
+            savent plaisanter – <persName knoraLink="http://rdfh.ch/0112/69VSKaRVSmaFoboseaphlw"
+               ref="http://rdfh.ch/0112/69VSKaRVSmaFoboseaphlw">Daniel Secretan</persName>
+            écrit des poèmes. – Ils connaissent des femmes et savent aussi leur parler et aimer
+            – que me sont-ils, et qu’ai-je à faire de leurs joies ? <lb/>Il n’y a que moi qui
+            essaye de vivre – et toujours cette gorge serrée et ce goût de larmes.</p>
+      </div>
+      <div n="II">
+         <head rend="p">II</head>
+         <dateline>Après le 24 mai <supplied>1916</supplied></dateline>
+         <p>que je dise, pendant que j’ai cette angoisse qui me torture – toi qui as ta vie,………
+            <lb/><seg n="toi_qui_as" knoraLink="http://rdfh.ch/0112/69VSKaRVSmaFoboseaphlw"
+               corresp="http://rdfh.ch/0112/69VSKaRVSmaFoboseaphlw"
+               ><!-- Le passage de : « toi qui as eu pitié » à  : « grand bruit de faux et de voix » est repris dans « Cendre », Œuvres poétiques, dans le passage de : « …Toi qui as eu pitié » à : « grand bruit de faux et de voix ».-->
+               toi qui as eu pitié de ton frère inconnu et qui lui as parlé au long des routes,
+               dans la poussière et la pluie, toi qui as bu avec lui dans les auberges les
+               âpres liqueurs des mendiants, toi sur qui il s’appuie, qu’il entoure de son
+               désespéré silence – mon frère, ha ! j’étouffe, si elle n’a été que d’un jour
+               cette caresse ! <lb/>Sois à mon côté l’image de la vie que j’ai quittée à
+               jamais, et pendant cette mort – avant l’autre, pendant que je loue la Vie et
+               t’exhorte à l’aimer, que peu à peu je vois ces lèvres tristes se ployer au
+               sourire, essuie sans rien dire les larmes dont j’ai plein les yeux – à jamais
+               parmi vous, et dis-moi bien que j’ai un corps, une âme, des femmes à aimer, une
+               vie à vivre, que je suis l’un de vous, tout simplement et qu’il faut que je
+               sourie, que je rie, comme tous rient, debout dans le jour avec un grand bruit de
+               faux et de voix.</seg></p>
+      </div>
+      <div n="III">
+         <head rend="p">III</head>
+         <dateline>[Après 6 mois]</dateline>
+         <p>ivre des liqueurs d’or que versent les auberges <add>Je découvrais Mallarmé !</add>
+            <lb/>aux gorges âcres des éternels vagabonds <lb/>leur amertume encore chaude à ses
+            lèvres vierges <lb/>………</p>
+      </div>
+      <div n="IV">
+         <head rend="p">IV</head>
+         <p>du bas de la terrasse : là-haut roulent leurs voix, et qui toutes ensemble me sont
+            une affreuse obscurité. Oh le courage de les rencontrer et de leur sourire ! À eux
+            qui ont leur vie. –  <lb/>Mon Dieu ! quand aurai-je la mienne ? <lb/>mon orgueil est
+            plus grand que le leur <lb/>………</p>
+      </div>
+      <div n="V">
+         <head rend="p">V</head>
+         <p>Qu’à l’instant même où je croise ceux que je ne comprends plus (en serai-je un jour
+            délivré ?)… il faut que demeure cet affreux jour plein de soleil. – Vraiment je suis
+            séparé <lb/>………</p>
+      </div>
+      <div n="VI">
+         <head rend="p">VI</head>
+         <p>il suffit que je le sente derrière moi et ce beau corps, image d’une vie, qui se tord
+            et s’étire à la balustrade, en plein soleil et les cloches muettes. <lb/>Sans doute
+            j’aimerais mieux leurs rires et leur ouvert dédain que ces sentiments totaux que
+            j’ignore. – Je le leur rends avec une terrible précision, une insurpassable rigueur.
+            Je ne suis plus seulement loin d’eux : mais contre eux. <lb/>Nous ne pouvons plus
+            nous comprendre. <lb/>Ô vie ! la cour, la ville, le soleil. <lb/><space quantity="2"
+            />où est le paysan solitaire ? <lb/>………</p>
+      </div>
+      <div n="VII">
+         <head rend="p">VII</head>
+         <dateline>
+            <persName knoraLink="http://rdfh.ch/0112/5cJu41PCQxaOnhXH11zO9Q"
+               ref="http://rdfh.ch/0112/5cJu41PCQxaOnhXH11zO9Q">R. Th. Bosshard</persName>
+         </dateline>
+         <p>a. insister sur ce que chaque tableau de Bosshard a de total. Total dans la
+            sensation, et comme elle, d’un moment. <lb/>N’importe quoi lui suffit dont la vue
+            éveille en lui jusqu’à l’extrême la vision de la couleur – jusqu’à l’aigu. <lb/>b.
+            cette parole entendue : <lb/><space quantity="2"/> ça nous choque, donc c’est faux.
+            <lb/>c. En premier lieu, une salle pleine de soleil, qui exaspère toutes les touches
+            – et tout ce qui était si tendre à deviner, maintenant cru et étalé. <lb/><space
+               quantity="2"/> en outre un public idiot : commentaires : <lb/><space
+                  quantity="2"/> on n’a jamais vu des gens bâtis comme ça. <lb/>……… </p>
+      </div>
+      <div n="VIII">
+         <head rend="p">VIII</head>
+         <dateline>
+            <placeName ref="http://rdfh.ch/0112/qrWdXWfmSpKhFKnLHwhJ3g"
+               knoraLink="http://rdfh.ch/0112/qrWdXWfmSpKhFKnLHwhJ3g">Lare</placeName>
+         </dateline>
+         <p>je compte bien ne plus prendre ainsi des notes au hasard des jours. C’est un
+            éparpillement de plus, et une sorte de libération insuffisante qu’il s’agit
+            d’éviter. Pourtant que je dise aujourd’hui cette lisière de forêt où j’écris et la
+            vallée dans le vent et le soleil. <lb/>Tout près la maison des… Qu’y fait-il ?
+            Est-ce le sommeil après le travail accablé ? ou bien non pas plutôt, en manches de
+            chemise, le cigare éteint, et la petite moustache comme une traînée de miel, le jeu
+            de quilles vers l’auberge, dans les rires et l’odeur du vin, et ce bruit crépitant
+            que j’entends d’ici, chaque fois un serrement de cœur ? <lb/>……… </p>
+      </div>
+      <div n="XI">
+         <head rend="p">XI</head>
+         <dateline>
+            <placeName knoraLink="http://rdfh.ch/0112/qrWdXWfmSpKhFKnLHwhJ3g"
+               ref="http://rdfh.ch/0112/qrWdXWfmSpKhFKnLHwhJ3g">Aud<ex>itoire</ex>
+               I</placeName>
+         </dateline>
+         <p>……… <lb/>……… <lb/>rien, pas une voix, pas une attitude, pas un visage, pas une main,
+            pas un regard, pas une présence même (de ces multiples !) que je ne rejette
+            âprement<supplied>.</supplied> Je songe à tous ceux là-bas qui se brûlent au
+            soleil et d’un corps égal (deux bras comme baisés d’un air doré) fauchent. Je les
+            veux moins différents – pour me consoler ! Es-tu là, et après les ivresses
+            d’avant-hier, le jeu de quilles dans l’ombre du toit, et qui sent fort le vin, les
+            rires, la terre mouillée et tout l’été qui se jette à la façade, de tout son être –
+            es-tu là debout devant l’andain commencé, ta faux ruisselante d’un soleil d’acier ?
+            Es-tu là, qui commences, de nouveau courbé, à mordre dans la houle d’or rose fumante
+            vers les bois ? Es-tu là, frère, le moins séparé – es-tu là comme l’image déchirante
+            d’une vie, que tu tends à ma soif et à mon abîme ? Es-tu là, qui peux sourire à tes
+            frères et leur parler, dont toute joie et toute tristesse fondent dans le travail ?
+            <lb/>Regarde-moi, lève les yeux sur ce grand corps courbé à son banc……… </p>
+      </div>
+      <div n="XI cf. IX">
+         <head rend="p">XI cf. IX</head>
+         <dateline>Suarès : Villon</dateline>
+         <p>
+            <quote knoraLink="http://rdfh.ch/0112/dhZWTY2BQe6Y09hoQqK4EA"
+               source="http://rdfh.ch/0112/dhZWTY2BQe6Y09hoQqK4EA">« Le poète est alors, à mon
+               gré, l’homme par excellence : celui qui pénètre, entre tous, la condition de
+               tous ; qui en pâtit pour tous, puisqu’entre (t)nous il en a passionnément
+               conscience. »</quote>
+         </p>
+      </div>
+      <div n="XIII">
+         <head rend="p">XIII</head>
+         <dateline>Étapes</dateline>
+         <p><space quantity="4"/>j’ai même oublié pourquoi je l’avais entrepris. Que c’était beau
+            et profond cette hâte du départ, ces cartes déployées au plancher. Si c’était pour
+            moi une naissance – c’est à recommencer. <lb/>Pourquoi de toute ma vie passée,
+            n’arrivé-je qu’à trier quelques images éparses, et d’où vient cette mort à moi-même
+            de chaque instant, si entière et si dure. N’est-ce pas à cause de cela qu’un poème
+            m’est si long et si douloureux à créer, chaque fois la pensée devant être recherchée
+            péniblement et l’émotion exaltée artificiellement ? <lb/>entre Prahins et Molondin
+            je pensais à <ref target="http://rdfh.ch/0112/Z3FOxwDqRMCJfmv1EN2i6Q"
+               knoraLink="http://rdfh.ch/0112/Z3FOxwDqRMCJfmv1EN2i6Q">la (théorie) de
+               Ramuz</ref> – et le thé dans la gourde après le char croisé. Avant, le noyer qui
+            ressemblait à l’arbre de Cézanne dans la <foreign>Berglandschaft</foreign> !
+            <lb/>Molondin c’était les hommes et leurs soifs étanchées aux fontaines, les bras
+            dans le bassin. <lb/>… inutile de noter, je sens cela en moi, – à jamais. Jamais
+            peut-être je n’ai <hi rend="italic">vu</hi> comme ça et si c’est ainsi, n’est-ce pas
+            à cause de l’absence de toute pensée importante et d’un dépouillement frémissant ?
+            <lb/><space quantity="4"/>un grand toit, nu de lignes, la masse d’un tilleul,
+            une étoile fondante dans le ciel d’aube – tout ça de la fenêtre de Murist
+            <lb/><space quantity="4"/>et l’âpre douleur devant le grand jeune homme de
+            Pailly, derrière le haut char de regain dans la poussière entre les maisons</p>
+      </div>
+      <div n="27. II. 17">
+         <dateline>27. II. 17</dateline>
+         <p>P. caissier. M. secrétaire. M. (!) vice-président : <lb/><foreign>ille sibi
+            (vacue !)</foreign>…<space quantity="1"/>Dieu ! à jamais ? </p>
+         <p>(<ref knoraLink="http://rdfh.ch/0112/yNyIJG3fR72dtUeIDfBKBg"
+            target="ms___http://rdfh.ch/0112/yNyIJG3fR72dtUeIDfBKBg">sans un seul
+            renoncement</ref> : <list>
+               <item>I.<space quantity="1"/><ref
+                  target="pub___http://rdfh.ch/0112/1BQaQzURTxWyozg9sc88sg"
+                  knoraLink="http://rdfh.ch/0112/1BQaQzURTxWyozg9sc88sg"
+                  ><supplied>«</supplied> à cette heure où
+                  déjà… <supplied>»</supplied></ref><supplied>.</supplied></item>
+               <item>II.<space quantity="1"/><ref
+                  target="ms___http://rdfh.ch/0112/ubt5O-bsSqu4ELFEXKIieA"
+                  knoraLink="http://rdfh.ch/0112/ubt5O-bsSqu4ELFEXKIieA">troisième version
+                  de la Fuite</ref><supplied>.</supplied></item>
+               <item>3.<space quantity="1"/>le dragon.</item>
+               <item>4.<space quantity="1"/><ref
+                  target="pub___http://rdfh.ch/0112/D2oSkK2-QA-gw4ZVemxIBQ"
+                  knoraLink="http://rdfh.ch/0112/D2oSkK2-QA-gw4ZVemxIBQ">le
+                  bain</ref>.</item>
+               <item>5.<space quantity="1"/>poème pour <seg n="arnold_rod_parce"
+                  corresp="http://rdfh.ch/0112/69VSKaRVSmaFoboseaphlw"
+                  knoraLink="http://rdfh.ch/0112/69VSKaRVSmaFoboseaphlw"
+                  ><!--ici#arnold_rod_etait--><persName
+                     knoraLink="http://rdfh.ch/0112/Utt05Ho0Tky5-wFF_uS9hA"
+                     ref="http://rdfh.ch/0112/Utt05Ho0Tky5-wFF_uS9hA">Arnold
+                     Rod</persName> parce qu’il s’est battu avec un charretier et que
+                  j’essayais de le consoler à toutes les auberges de la
+                  route</seg>.</item>
+               <item>6.<space quantity="1"/>de caserne : I. <ref
+                  target="ms___http://rdfh.ch/0112/yNyIJG3fR72dtUeIDfBKBg"
+                  knoraLink="http://rdfh.ch/0112/yNyIJG3fR72dtUeIDfBKBg">cette
+                  pluie</ref>. (II)</item>
+            </list></p>
+         <p>d’après : <lb/>I. naissance. –<lb/><supplied>«</supplied>… non encore
+            groupés. <supplied>»</supplied> –</p>
+         <p>au début : <ref knoraLink="http://rdfh.ch/0112/xLLX9BhyTkObvL1HbDRhMA"
+            target="ms___http://rdfh.ch/0112/xLLX9BhyTkObvL1HbDRhMA"
+            ><supplied>«</supplied> ici, ce conte… <supplied>»</supplied></ref></p>
+         <p><supplied>«</supplied>…immobile au milieu du cercle des villages <lb/>et des villes,
+            connues par un rond plus pâle dans le ciel<lb/>baigné d’un vent stérile et lisse,
+            sans rafales<lb/>vierges de parfum, toujours égal, comme éternel</p>
+         <p>je respire, debout dans la nuit de décembre. <supplied>»</supplied> –)</p>
+      </div>
+      <div n="24 mai 19">
+         <dateline>24 mai 19</dateline>
+         <p>Trois ans : Oron (je me rappelle cette pluie sur les arbres défleuris et notre troupe
+            en désordre au long de la route. Les paysans effrayés nous offraient du cidre dans
+            de sombres cuisines. <seg n="arnold_rod_etait"
+               corresp="http://rdfh.ch/0112/QLkwZliXSlexFLDmnEkbPQ"
+               knoraLink="http://rdfh.ch/0112/QLkwZliXSlexFLDmnEkbPQ"
+               ><!--ici#arnold_rod_parce-->A<ex>rnold</ex> R<ex>od</ex> s’était battu avec
+               un charretier, et revenant, avec cette obstination qui accompagne l’ivresse[,]
+               il me parlait de sa lutte</seg>. Du sang avait coulé sur la rose achetée au
+            matin ; frère, je n’ai même plus cette présence à mes côtés qui m’avait paru si
+            douce, et seul dans une chambre avec toutes mes défaites (vaines roses ! et la
+            dérision de ces photographies !) je revois aussi, un an plus tard, le poste dans la
+            forêt, cette mer d’herbes et de froments qui déferlait jusqu’au pied des troncs, et
+            ce village, Reymond, où nous allâmes vers le soir goûter ce vin froid par un chemin
+            bordé de faucheurs dont le soleil couchant faisait les bras de bronze.</p>
+      </div>
+      <div n="16 mars 1924">
+         <dateline>Dimanche 16 mars <supplied>1924</supplied></dateline>
+         <p>mon esprit chaque soir pareil, ses innombrables systèmes de pensées entrelacés
+            s’illuminant grâce à l’abandon de la conscience du monde (<seg
+               n="ainsi_naissent_etoiles"
+               corresp="http://rdfh.ch/0112/QLkwZliXSlexFLDmnEkbPQ#la_nuit_monte"
+               knoraLink="http://rdfh.ch/0112/QLkwZliXSlexFLDmnEkbPQ">ainsi naissent les
+               étoiles du jour mort, comme les abeilles du taureau pourri d’Aristée</seg>) au
+            ciel rongé de constellations ambiguës, sent la poésie lentement gravir son horizon,
+            comme cette planète pure empêche au crépuscule le scintillant désordre de rompre son
+            fixe éclat. Mars ! </p>
+      </div>
+      <div n="13 mars 1927 - vers Estavayer">
+         <dateline>13 mars <supplied>1927</supplied> – vers E<ex>stavayer</ex></dateline>
+         <p>Voyage empoisonné, je puis le dire. Les sursauts, les exigences de la chair, tout
+            cela prévu, ridicule, mais <hi rend="italic">paralysant</hi>. Je sentais fort bien
+            mes élans les plus simples rompus, embarrassés, retenus par un poids d’obscènes et
+            furieuses demandes. Deux villages inconnus m’ont accueilli ; une petite chapelle
+            (Sévaz, j’ai su le nom plus tard) toute fondue et chatoyante de gris délicats contre
+            un ciel pur, toute prise dans un ﬁn réseau d’ombres : l’allée des cerisiers nus.
+            L’église d’E<ex>stavayer</ex> elle aussi était belle, les lis de craie dans les
+            vases d’argent froid ; les féeries du port <lb/>… ô que j’aimerais peindre l’image
+            de ce pays que m’ont donnée mes ﬁèvres, mes rêveries, mes extases ! Un Estavayer
+            d’automne, tout oblique sous les rafales, le cimetière, <seg n="orage_de_marbres"
+               corresp="http://rdfh.ch/0112/QLkwZliXSlexFLDmnEkbPQ#orage_de_marbre"
+               knoraLink="http://rdfh.ch/0112/QLkwZliXSlexFLDmnEkbPQ">orage de marbres
+               ﬁgés</seg>, le port <lb/>et toi.</p>
+      </div>
+   </body>
+</text>
