@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mapping xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:noNamespaceSchemaLocation="mappingXMLToStandoff.xsd">
+   <mappingElement>
+      <tag>
+         <name>head</name>
+         <class>noClass</class>
+         <namespace>noNamespace</namespace>
+         <separatesWords>false</separatesWords>
+      </tag>
+      <standoffClass>
+         <classIri>http://www.knora.org/ontology/0112/roud-oeuvres#StandoffHead</classIri>
+         <attributes>
+            <attribute>
+               <attributeName>type</attributeName>
+               <namespace>noNamespace</namespace>
+               <propertyIri>http://www.knora.org/ontology/0112/roud-oeuvres#standoffHeadHasType</propertyIri>
+            </attribute>
+         </attributes>
+      </standoffClass>
+   </mappingElement>
+
+
+   <mappingElement>
+      <tag>
+         <name>hi</name>
+         <class>noClass</class>
+         <namespace>noNamespace</namespace>
+         <separatesWords>false</separatesWords>
+      </tag>
+      <standoffClass>
+         <classIri>http://www.knora.org/ontology/0112/roud-oeuvres#StandoffHi</classIri>
+         <attributes>
+            <attribute>
+               <attributeName>rend</attributeName>
+               <namespace>noNamespace</namespace>
+               <propertyIri>http://www.knora.org/ontology/0112/roud-oeuvres#standoffHiHasRend</propertyIri>
+            </attribute>
+         </attributes>
+      </standoffClass>
+   </mappingElement>
+
+
+   <mappingElement>
+      <tag>
+         <name>note</name>
+         <class>noClass</class>
+         <namespace>noNamespace</namespace>
+         <separatesWords>false</separatesWords>
+      </tag>
+      <standoffClass>
+         <classIri>http://www.knora.org/ontology/0112/roud-oeuvres#StandoffNote</classIri>
+         <attributes>
+            <attribute>
+               <attributeName>resp</attributeName>
+               <namespace>noNamespace</namespace>
+               <propertyIri>http://www.knora.org/ontology/0112/roud-oeuvres#standoffNoteHasResp</propertyIri>
+            </attribute>
+         </attributes>
+      </standoffClass>
+   </mappingElement>
+
+
+   <mappingElement>
+      <tag>
+         <name>l</name>
+         <class>noClass</class>
+         <namespace>noNamespace</namespace>
+         <separatesWords>false</separatesWords>
+      </tag>
+      <standoffClass>
+         <classIri>http://www.knora.org/ontology/0112/roud-oeuvres#StandoffL</classIri>
+      </standoffClass>
+   </mappingElement>
+
+
+   <mappingElement>
+      <tag>
+         <name>lb</name>
+         <class>noClass</class>
+         <namespace>noNamespace</namespace>
+         <separatesWords>false</separatesWords>
+      </tag>
+      <standoffClass>
+         <classIri>http://www.knora.org/ontology/0112/roud-oeuvres#StandoffLb</classIri>
+      </standoffClass>
+   </mappingElement>
+
+
+   <mappingElement>
+      <tag>
+         <name>lg</name>
+         <class>noClass</class>
+         <namespace>noNamespace</namespace>
+         <separatesWords>false</separatesWords>
+      </tag>
+      <standoffClass>
+         <classIri>http://www.knora.org/ontology/0112/roud-oeuvres#StandoffLg</classIri>
+      </standoffClass>
+   </mappingElement>
+
+
+   <mappingElement>
+      <tag>
+         <name>p</name>
+         <class>noClass</class>
+         <namespace>noNamespace</namespace>
+         <separatesWords>false</separatesWords>
+      </tag>
+      <standoffClass>
+         <classIri>http://www.knora.org/ontology/0112/roud-oeuvres#StandoffP</classIri>
+      </standoffClass>
+   </mappingElement>
+
+
+   <mappingElement>
+      <tag>
+         <name>quote</name>
+         <class>noClass</class>
+         <namespace>noNamespace</namespace>
+         <separatesWords>false</separatesWords>
+      </tag>
+      <standoffClass>
+         <classIri>http://www.knora.org/ontology/0112/roud-oeuvres#StandoffQuote</classIri>
+         <attributes>
+            <attribute>
+               <attributeName>source</attributeName>
+               <namespace>noNamespace</namespace>
+               <propertyIri>http://www.knora.org/ontology/0112/roud-oeuvres#standoffQuoteHasSource</propertyIri>
+            </attribute>
+         </attributes>
+         <datatype>
+            <type>http://www.knora.org/ontology/knora-base#StandoffLinkTag</type>
+            <attributeName>knoraLink</attributeName>
+         </datatype>
+      </standoffClass>
+   </mappingElement>
+
+
+   <mappingElement>
+      <tag>
+         <name>ref</name>
+         <class>noClass</class>
+         <namespace>noNamespace</namespace>
+         <separatesWords>false</separatesWords>
+      </tag>
+      <standoffClass>
+         <classIri>http://www.knora.org/ontology/0112/roud-oeuvres#StandoffRef</classIri>
+         <attributes>
+            <attribute>
+               <attributeName>target</attributeName>
+               <namespace>noNamespace</namespace>
+               <propertyIri>http://www.knora.org/ontology/0112/roud-oeuvres#standoffRefHasTarget</propertyIri>
+            </attribute>
+         </attributes>
+         <datatype>
+            <type>http://www.knora.org/ontology/knora-base#StandoffLinkTag</type>
+            <attributeName>knoraLink</attributeName>
+         </datatype>
+      </standoffClass>
+   </mappingElement>
+
+
+   <mappingElement>
+      <tag>
+         <name>body</name>
+         <class>noClass</class>
+         <namespace>noNamespace</namespace>
+         <separatesWords>false</separatesWords>
+      </tag>
+      <standoffClass>
+         <classIri>http://www.knora.org/ontology/0112/roud-oeuvres#StandoffBody</classIri>
+      </standoffClass>
+   </mappingElement>
+
+
+   <mappingElement>
+      <tag>
+         <name>dateline</name>
+         <class>noClass</class>
+         <namespace>noNamespace</namespace>
+         <separatesWords>false</separatesWords>
+      </tag>
+      <standoffClass>
+         <classIri>http://www.knora.org/ontology/0112/roud-oeuvres#StandoffDateline</classIri>
+      </standoffClass>
+   </mappingElement>
+
+
+   <mappingElement>
+      <tag>
+         <name>div</name>
+         <class>noClass</class>
+         <namespace>noNamespace</namespace>
+         <separatesWords>false</separatesWords>
+      </tag>
+      <standoffClass>
+         <classIri>http://www.knora.org/ontology/0112/roud-oeuvres#StandoffDiv</classIri>
+         <attributes>
+            <attribute>
+               <attributeName>n</attributeName>
+               <namespace>noNamespace</namespace>
+               <propertyIri>http://www.knora.org/ontology/0112/roud-oeuvres#standoffDivHasN</propertyIri>
+            </attribute>
+         </attributes>
+      </standoffClass>
+   </mappingElement>
+
+
+   <mappingElement>
+      <tag>
+         <name>seg</name>
+         <class>noClass</class>
+         <namespace>noNamespace</namespace>
+         <separatesWords>false</separatesWords>
+      </tag>
+      <standoffClass>
+         <classIri>http://www.knora.org/ontology/0112/roud-oeuvres#StandoffSeg</classIri>
+         <attributes>
+            <attribute>
+               <attributeName>corresp</attributeName>
+               <namespace>noNamespace</namespace>
+               <propertyIri>http://www.knora.org/ontology/0112/roud-oeuvres#standoffSegHasCorresp</propertyIri>
+            </attribute>
+            <attribute>
+               <attributeName>n</attributeName>
+               <namespace>noNamespace</namespace>
+               <propertyIri>http://www.knora.org/ontology/0112/roud-oeuvres#standoffSegHasN</propertyIri>
+            </attribute>
+         </attributes>
+         <datatype>
+            <type>http://www.knora.org/ontology/knora-base#StandoffLinkTag</type>
+            <attributeName>knoraLink</attributeName>
+         </datatype>
+      </standoffClass>
+   </mappingElement>
+
+
+   <mappingElement>
+      <tag>
+         <name>persName</name>
+         <class>noClass</class>
+         <namespace>noNamespace</namespace>
+         <separatesWords>false</separatesWords>
+      </tag>
+      <standoffClass>
+         <classIri>http://www.knora.org/ontology/0112/roud-oeuvres#StandoffPersName</classIri>
+         <attributes>
+            <attribute>
+               <attributeName>ref</attributeName>
+               <namespace>noNamespace</namespace>
+               <propertyIri>http://www.knora.org/ontology/0112/roud-oeuvres#standoffPersNameHasRef</propertyIri>
+            </attribute>
+         </attributes>
+         <datatype>
+            <type>http://www.knora.org/ontology/knora-base#StandoffLinkTag</type>
+            <attributeName>knoraLink</attributeName>
+         </datatype>
+      </standoffClass>
+   </mappingElement>
+
+
+   <mappingElement>
+      <tag>
+         <name>placeName</name>
+         <class>noClass</class>
+         <namespace>noNamespace</namespace>
+         <separatesWords>false</separatesWords>
+      </tag>
+      <standoffClass>
+         <classIri>http://www.knora.org/ontology/0112/roud-oeuvres#StandoffPlaceName</classIri>
+         <attributes>
+            <attribute>
+               <attributeName>ref</attributeName>
+               <namespace>noNamespace</namespace>
+               <propertyIri>http://www.knora.org/ontology/0112/roud-oeuvres#standoffPlaceNameHasRef</propertyIri>
+            </attribute>
+         </attributes>
+         <datatype>
+            <type>http://www.knora.org/ontology/knora-base#StandoffLinkTag</type>
+            <attributeName>knoraLink</attributeName>
+         </datatype>
+      </standoffClass>
+   </mappingElement>
+
+
+   <mappingElement>
+      <tag>
+         <name>text</name>
+         <class>noClass</class>
+         <namespace>noNamespace</namespace>
+         <separatesWords>false</separatesWords>
+      </tag>
+      <standoffClass>
+         <classIri>http://www.knora.org/ontology/0112/roud-oeuvres#StandoffText</classIri>
+      </standoffClass>
+   </mappingElement>
+
+
+</mapping>
