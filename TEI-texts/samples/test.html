@@ -1,0 +1,78 @@
+<html>
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta>
+         <script>
+            // When the user clicks on div, open the popup
+            function quotePopup() {
+            var popup = document.getElementById("a-quote-popup-text");
+            popup.classList.toggle("show");
+            }
+            </script>
+         
+         <style>
+               .quote-popup {
+                  position: relative;
+                  display: inline-block;
+                  cursor: pointer;
+                }
+                /* The actual popup */
+                .quote-popup .quote-popup-text {
+                  visibility: hidden;
+                  # width: 160px;
+                  background-color: #555;
+                  color: #fff;
+                  text-align: center;
+                  border-radius: 6px;
+                  padding: 8px 0;
+                  position: absolute;
+                  z-index: 1;
+                  bottom: 125%;
+                  left: 50%;
+                  margin-left: -80px;
+               }
+                
+                /* Popup arrow */
+                .quote-popup .quote-popup-text {
+                  content: "";
+                  position: absolute;
+                  top: 100%;
+                  left: 50%;
+                  margin-left: -5px;
+                  border-width: 5px;
+                  border-style: solid;
+                  border-color: #555 transparent transparent transparent;
+                }
+                
+                /* Toggle this class - hide and show the popup */
+                .quote-popup .show {
+                visibility: visible;
+                }
+                </style></head>
+   <body>
+      
+      
+      
+      Title
+      
+      
+      Publication Information
+      
+      
+      Information about the source
+      
+      
+      
+      
+      
+      Some <span class="tei-quote quote-popup" onclick="quotePopup()">
+         text
+         <span class="tei-quote-note quote-popup-text" id="a-quote-popup-text">Citation libre de Hamlet de Shakespeare, acte IV, scène 5 :
+            « Lord, we know what we are, but know not what we may be » (« Seigneur, nous
+            savons ce que nous sommes, mais nous ne savons pas ce que nous serons » ;
+            Shakespeare, Œuvres complètes, t. 1, dir. Jean-Michel Déprats, Paris, Gallimard, «
+            Bibliothèque de la Pléiade », 2002, p. 896).</span></span> here.
+      
+      
+      
+   </body>
+</html>

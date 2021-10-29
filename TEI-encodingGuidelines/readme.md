@@ -14,15 +14,17 @@ In alphabetical order.
 
 **`<dateline>`** indicates the dateline which sometimes appears at the end of a text or at the beginning, for example in the diary. In the diary, it can also contain a reference to an event instead of a date, but it will still be encoded as a dateline because it is treated in the same way by the editor (e.g., "R. Th. Bosshard" in 1916). The element carries no attributes.
 
-**`<div>`** has attribute `@n` for indicating the unique label, which is the title or incipit to be displayed in the table of contents.
+**`<div>`** has attribute `@n` for indicating the unique label, which is the title or incipit to be displayed in the table of contents and can contain multiple words.
 
 **`<ex>`** is used for expanding abbreviations
 
 **`<foreign>`** for words in a language other than French.
 
+**`<gap>`** indicates an illegible word. It always has the attribute `@reason="illegible"`.
+
 **`<head>`** marks the title of a section and appears at the beginning of that section, inside the corresponding `<div>`. Each `<body>` starts with `<head type="main">`,  before the first `<div>`, corresponding to the title of the critical text given by the editor, which will not be processed but rest available when exporting. Because there might be different types of heads, the attribute `@rend` is used to distinguish them: values of `@rend` can be "p", "h1", "h2", etc.
 
-**`<hi>`** is used to identify a segment in italic, or any other segment that has a specific position or visualization, expressed by the attribute `@rend`; possible values are `"italic"`, `"align-center"`, `"align-right"`.
+**`<hi>`** is used to identify a segment in italic, or any other segment that has a specific position or visualization, expressed by the attribute `@rend`; possible values are `"italic"` (rendered inline) and `"align-center"`, `"align-right"`, `"align-left"` (all rendered as a block).
 
 **`<item>`**. They are rendered without a style, because the index is generally already in the text.
 
@@ -32,13 +34,13 @@ In alphabetical order.
 
 **`<list>`** contains any sequence of items organized as a list. Inside, use the element 
 
-Roud's notes are indicated with the element **`<note>`** and the attribute `@resp` with value `"Roud"`. It should occur inside a `<div>`.
+**`<note>`** occurs inside `<quote>` and carries the attribute `@type="quote"`, when it contains info about a citation (corresponding to the print edition footnote, which includes the source but also information about the correctness of the quote). Roud's notes, on the other side, are indicated with the element **`<note>`** and the attribute `@resp` with value `"Roud"`; they should occur inside a `<div>`.
 
 **`<p>`** indicates paragraphs. Between two paragraphs there is a blank line in the established text. When there is only a line break use `<lb/>`.
 
 **`<persName>`** and **`<placeName>`** are used to indicate a person and a place, and they have the attributes `@ref` and `@knoraLink` to point to a resource of the corresponding class.
 
-**`<quote>`** is used for a citation, with the attribute `@source` and `@knoraLink` pointing to the source, which will probably be an item of class `:Publication`.
+**`<quote>`** is used for a citation. It should contain a `<note>` indicating the source and other info (see `<note>`).
 
 **`<ref>`** indicates the mention of a work (of art, literature or music), by Roud or anyone else. It always has attributes `@target` and `@knoraLink` (same value), also when it points to a work that has no *notice* (descriptive note about the work); in that case, there is a rule in the app in order not to display it as a link (only create link if work?.notice != null), but we don't care about it in the encoding. When it points to an external work, the value of `@target` will be of
 - one of the subclasses of `:Work` (IRI) or
@@ -55,6 +57,8 @@ when it points to Roud's own texts, it can point
 **`<space>`** is used to encode whitespace in the established text. It carries the attribute `@quantity`: 1 corresponds to "espace blanc", 2 to "retrait plus important", 3 to "retrait encore plus important", 4 to "retrait beaucoup plus important, milieu de la ligne".
 
 **`<supplied>`** is used to encode editorial addition to the text, for example the dateline in the diary when absent (the Guidelines suggests not to use `<add>` in this case, even if they are a bit contradictory). 
+
+**`<unclear>`** indicates readings that are not sure, for any possible reason but mostly because they are hardly legible. It does not feature any attribute.
 
 
 

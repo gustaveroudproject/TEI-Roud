@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="roudMapping.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="roudMapping.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<text>
+    <body>
+        <head type="main">Vers libres (très)</head>
+        <div n="Écrit un jour">
+            <head rend="p">Écrit un jour de pluie.</head>
+            <lg>
+                <l>Il pleut, il pleut, il pleut.</l>
+                <l>Il pleut à torrents</l>
+                <l>Rien n’est bleu,</l>
+                <l>Les nuages, poussés par le vent</l>
+                <l>Courent sur l’azur qu’ils cachent</l>
+                <l>Les arbres gémissent et se tordent,</l>
+                <l>Le vent leur arrache</l>
+                <l>Un pétale qui borde</l>
+                <l>Une corolle blanche.</l>
+                <l>Les maisons sont (tristes et) grises</l>
+                <l>Et sur l’aile que penche</l>
+                <l>Un oiseau rapide</l>
+                <l>Un rayon irise</l>
+                <l>Une goutte tombée</l>
+                <l>D’un nuage livide.</l>
+                <l>Dans la forêt sombre</l>
+                <l>Sous la feuillée</l>
+                <l>Dans l’ombre</l>
+                <l>Une plante mouillée</l>
+                <l>Baisse la tête</l>
+                <l>Tandis qu’autour d’elle</l>
+                <l>Poussent les herbettes</l>
+                <l>Une feuille arrête</l>
+                <l>Un brin de soleil</l>
+            </lg>
+        </div>
+        <div n="Test">
+            <p>This is a test for an <hi rend="italic">italic hi</hi>.</p>
+            <p><hi rend="align-left">This is a test for a left hi</hi></p>
+        </div>
+    </body>
+</text>
