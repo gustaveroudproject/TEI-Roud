@@ -67,7 +67,7 @@
             <xsl:attribute name="class">
                 <xsl:text>tei-quote quote-popup</xsl:text>
             </xsl:attribute>
-            <xsl:attribute name="onclick">
+            <xsl:attribute name="(click)">
                 <xsl:text>quotePopup()</xsl:text>
             </xsl:attribute>
             <xsl:value-of select="text()"/>    

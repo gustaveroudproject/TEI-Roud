@@ -14,9 +14,9 @@ In alphabetical order.
 
 **`<dateline>`** indicates the dateline which sometimes appears at the end of a text or at the beginning, for example in the diary. In the diary, it can also contain a reference to an event instead of a date, but it will still be encoded as a dateline because it is treated in the same way by the editor (e.g., "R. Th. Bosshard" in 1916). The element carries no attributes.
 
-**`<div>`** has attribute `@n` for indicating the unique label, which is the title or incipit to be displayed in the table of contents and can contain multiple words.
+**`<div>`** has attribute `@n` for indicating the unique label, which is the title or incipit to be displayed in the table of contents and can contain multiple words. A `<div>` cannot contain directly texts, but should include a paragraph or verse.
 
-**`<ex>`** is used for expanding abbreviations
+**`<ex>`** is used for expanding abbreviations.
 
 **`<foreign>`** for words in a language other than French.
 
@@ -30,7 +30,7 @@ In alphabetical order.
 
 **`<lb/>`** is used to mark a carriage return inside a paragraph or a dateline. It carries no attributes. It is used between lines, not at the beginning or at the end.
 
-**`<lg>`** and **`<l>`** are used for poetry.
+**`<lg>`** and **`<l>`** are used for verse.
 
 **`<list>`** contains any sequence of items organized as a list. Inside, use the element 
 
