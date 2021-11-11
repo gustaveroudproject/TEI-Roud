@@ -10,7 +10,7 @@
 
 More about how to create these files [here](../createStandoffMapping).
 
-The files in this repo are examples. For the last version of the mapping used in the project "Gustave Roud. *Œuvres complètes*", see https://github.com/LaDHUL/oeuvres-roud/tree/master/mapping.
+The files in this repo are **examples**. For the last version of the mapping used in the project "Gustave Roud. *Œuvres complètes*", see https://github.com/LaDHUL/oeuvres-roud/tree/master/mapping.
 
 ## Load the mapping into Knora (DSP)
 
