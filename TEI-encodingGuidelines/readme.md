@@ -38,9 +38,9 @@ In alphabetical order.
 
 **`<p>`** indicates paragraphs. Between two paragraphs there is a blank line in the established text. When there is only a line break use `<lb/>`.
 
-**`<persName>`** and **`<placeName>`** are used to indicate a person and a place, and they have the attributes `@ref` and `@knoraLink` to point to a resource of the corresponding class.
+**`<persName>`** and **`<placeName>`** are used to indicate a person and a place, and they have the attributes `@ref` and `@knoraLink` to point to a resource of the corresponding class. Each person and place that appears in the text (not in a note) and that should be present in the index of names, has to be tagged.
 
-**`<quote>`** is used for a citation. It should contain a `<note>` indicating the source and other info (see `<note>`).
+**`<quote>`** is used for a citation. It should contain a `<note>` indicating the source and other info (see `<note>`). Attribute `@rend` is mandatory, possible values are `inline` or `block` (no need to use block when it contains verses in `<lg>`, it would be block anyway).
 
 **`<ref>`** indicates the mention of a work (of art, literature or music), by Roud or anyone else. It always has attributes `@target` and `@knoraLink` (same value), also when it points to a work that has no *notice* (descriptive note about the work); in that case, there is a rule in the app in order not to display it as a link (only create link if work?.notice != null), but we don't care about it in the encoding. When it points to an external work, the value of `@target` will be of
 - one of the subclasses of `:Work` (IRI) or
