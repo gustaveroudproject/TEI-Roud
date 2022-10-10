@@ -20,7 +20,6 @@ For the project ontologies, see [here](https://github.com/LaDHUL/oeuvres-roud).
 
 ### TEI, Knora, Angular app
 
-**Move to app doc**
-
 The project uses [Knora](https://dsp.dasch.swiss/) (DSP), which requires a customized mapping to work with XML. Knora also hosts a customized XSL transformation (from XML to HTML) attached to the mapping.
-In the webapp, the text is retrieved in HTML, thanks to the XSLT. Some styling and processing rules are added directly in the XSL transformation, while others happen in the typescript code (in a specific component or in directives).
+
+In the webapp, the text is retrieved in HTML, thanks to the XSLT. Some styling and processing rules are added directly in the [XSL transformation](https://github.com/LaDHUL/oeuvres-roud/blob/master/mapping/tei2html.xsl), while others happen in the typescript code, in the [`render-tei`](https://github.com/gustaveroudproject/roud-oeuvres-app/blob/master/src/app/directives/render-tei.directive.ts) directive and in [`text-page.component.scss`](https://github.com/gustaveroudproject/roud-oeuvres-app/blob/master/src/app/components/text-page/text-page.component.scss).
