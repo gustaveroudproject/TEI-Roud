@@ -22,7 +22,7 @@ In alphabetical order.
 
 **`<gap>`** indicates an illegible word. It always has the attribute `@reason="illegible"`.
 
-**`<head>`** marks the title of a section and appears at the beginning of that section, inside the corresponding `<div>`. Each `<body>` starts with `<head type="main">`,  before the first `<div>`, corresponding to the title of the critical text given by the editor, which will not be processed but rest available when exporting. Because there might be different types of heads, the attribute `@rend` is used to distinguish them: values of `@rend` can be "p", "h1", "h2", etc.
+**`<head>`** marks the title of a section and appears at the beginning of that section, inside the corresponding `<div>`. Each `<body>` starts with `<head type="main">`,  before the first `<div>`, corresponding to the title of the critical text given by the editor, which will not be processed but rest available when exporting. Because there might be different types of heads, the attribute `@rend` is used to distinguish them: values of `@rend` can be "p", "h1", "h2", etc. `<head>` with `@rend='h1'` are extracted for creating the table of contents. `<head>` with `@type='editorial'` will not be displayed in the text.
 
 **`<hi>`** is used to identify a segment in italic, or any other segment that has a specific position or visualization, expressed by the attribute `@rend`; possible values are `"italic"` (rendered inline) and `"align-center"`, `"align-right"`, `"align-left"` (all rendered as a block).
 
