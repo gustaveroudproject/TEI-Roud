@@ -1,12 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="roudMapping.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="roudMapping.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <text>
    <body>
       <head type="main">Adieu</head>
       <div n="[à Edmond Thévoz]">
-         <p>à <persName ref="http://rdfh.ch/0112/3FyniJqgSSiXk0E2ZjYguA"
-               knoraLink="http://rdfh.ch/0112/3FyniJqgSSiXk0E2ZjYguA">Edmond Thévoz</persName></p>
+         <head type="editorial" rend="h1">[à Edmond Thévoz]</head>
+         <p><hi rend="align-right">à <persName ref="http://rdfh.ch/0112/3FyniJqgSSiXk0E2ZjYguA"
+               knoraLink="http://rdfh.ch/0112/3FyniJqgSSiXk0E2ZjYguA">Edmond Thévoz</persName></hi></p>
          <p>L’auteur s’excuse de donner ici deux moments d’un Adieu qu’il n’a jamais dit. Le premier
             n’en tente que l’annonce, il est vrai, mais avec une emphase mortelle au simple chant
             qui devait naître. Le deuxième essaie mieux d’atteindre son presque insaisissable objet,
@@ -17,6 +15,8 @@
             pris forme, il y attend encore, mais en vain, la Parole qui ne jaillira plus.</p>
       </div>
       <div n="[Cube de corps et de fumée]">
+         <head type="editorial" rend="h1">[Cube de corps et de fumée]</head>
+         <hi rend="italic">
          <lg>
             <l>Cube de corps et de fumée, et calme bouge !</l>
             <l>La cendre qu’un doigt sec brise au cigare mort</l>
@@ -71,6 +71,7 @@
             <l>Ton flux vertigineux de givre et de ténèbre,</l>
             <l>Ô ciel étincelant de mes songes blessés !</l>
          </lg>
+         </hi>
       </div>
       <div n="Adieu">
          <head rend="h1">Adieu</head>
@@ -85,7 +86,7 @@
             la fièvre, les songes, avant le retour du silence et la victoire de ce sommeil qui me
             divisera jusqu’à la mort.</p>
          <p>
-            <hi rend="italic">La mort <lb/><ref
+            <hi rend="italic">La mort <lb/><space quantity="1"/><ref
                knoraLink="http://rdfh.ch/0112/Zi3Whhz5QQqCKdh_ewYOEw"
                target="http://rdfh.ch/0112/Zi3Whhz5QQqCKdh_ewYOEw">la sora nostra morte corporale
                   la sora nostra morte corporale</ref> notre sœur ; il y a un homme sur le mur du
@@ -101,8 +102,8 @@
                un lac verdâtre et bleu dans la brume. Épanouies, évanouies, les vagues de craie
                pareilles à ma vaine pensée !
                <!--dans le journal, le 8 août 1926, « et la petite fille quand le soir tombe monte au cimetière les mains pleines de pensées »-->
-               Une petite fille s’agenouille, et prie les mains pleines de pensées <lb/>che da te
-               Altissimo saranno incoronati<lb/>– comme elle s’agenouilleront les Anges pour
+               Une petite fille s’agenouille, et prie les mains pleines de pensées <lb/><space quantity="1"/>che da te
+               Altissimo saranno incoronati<lb/><space quantity="1"/>– comme elle s’agenouilleront les Anges pour
                cueillir les couronnes de pensées.</hi>
          </p>
          <p>
@@ -138,8 +139,8 @@ ciel » reprend une note du Journal du 7 avril 1926, p. #. -->
             silence même est terrible. Ah prenez pitié de cet homme à la gorge rompue ! 
                <!-- L’image du taureau d’Aristée, associée à la naissance des étoiles, se trouve dans
 la note du Journal du 16 mars 1924 --> La nuit monte et du jour mort vont naître
-            les étoiles d’<ref target="http://rdfh.ch/0112/LOSXSoYDTcKIHb5TlLgAJw"
-               knoraLink="http://rdfh.ch/0112/LOSXSoYDTcKIHb5TlLgAJw">Aristée</ref>. Ô constellations implacables, figures immortelles
+            les étoiles comme les abeilles hors du taureau d’<persName ref="http://rdfh.ch/0112/LOSXSoYDTcKIHb5TlLgAJw"
+               knoraLink="http://rdfh.ch/0112/LOSXSoYDTcKIHb5TlLgAJw">Aristée</persName>. Ô constellations implacables, figures immortelles
             de mes fautes, de mes songes, de mes fuites, reverrez-vous encore cette face aux lèvres
             closes tourner ses yeux souillés de larmes vers votre étincelante cruauté ? Seigneur, à
             ces lèvres rendez leur souffle – le temps d’une phrase, d’un chant, d’un cri.</p>
@@ -147,14 +148,14 @@ la note du Journal du 16 mars 1924 --> La nuit monte et du jour mort vont naîtr
             <hi rend="italic">On danse dans tous les villages, Aimé, que choisirons-nous, le plus
                joli nom, la plus belle danseuse ? Lussery, Molondin, Prévonloup, Chesalles, et Rose
                aurait mis son collier de corail, mais Lucie à son poignet ce petit cœur d’argent
-               avec une pierre bleue. <lb/>Tu dors. <lb/>L’ombre du vin transparent touche ta main
+               avec une pierre bleue. <lb/><space quantity="1"/>Tu dors. <lb/><space quantity="1"/>L’ombre du vin transparent touche ta main
                fermée. C’est l’auberge sous les cerisiers d’argent. L’odeur de miel et de résine
                coule sur ton sommeil comme une pluie. Doucement servante, qu’un seul doigt contre le
-               cristal tinte, et se brise un rêve sans retour. <lb/>Est-ce mon rêve qui se brise ?
+               cristal tinte, et se brise un rêve sans retour. <lb/><space quantity="1"/>Est-ce mon rêve qui se brise ?
                Ici la haie, la haie et la forêt de soie où sombre le soleil ! Tu respires une
                églantine couleur de lèvres. Hors du linge un bras pur calme une faux éblouissante,
                l’autre penche aux narines la coupe étroite entre l’épine et le feuillage.
-               <lb/>Aimé ! <lb/>Toute une prairie de fleurs mûres à tes genoux déferle, ô faucheur
+               <lb/><space quantity="1"/>Aimé ! <lb/><space quantity="1"/>Toute une prairie de fleurs mûres à tes genoux déferle, ô faucheur
                fauve et fin ; tu les tranches, elles tombent en tumulte, la sombre sauge, la
                marguerite et les corolles sans nom que jadis j’ai tant aimées, ce bleu de source et
                d’orage, la couleur même de ton regard.</hi>
@@ -175,19 +176,19 @@ la note du Journal du 16 mars 1924 --> La nuit monte et du jour mort vont naîtr
          <p>
             <hi rend="italic">Viens ô frère vivant que j’abandonne ; écrase doucement
                les fleurs glacées. Laisse à ton épaule pour un peu de temps encore poser ma tête
-               <lb/>adieu. <lb/>Demain le soleil sur mon silence, les pierres des enfants, les
+               <lb/><space quantity="1"/>adieu. <lb/><space quantity="1"/>Demain le soleil sur mon silence, les pierres des enfants, les
                insultes des femmes ; les hommes autour de cet homme perdu qui a tout oublié et ne
-               sait pas mentir. <lb/>adieu. <lb/>Ô le soleil d’août sur les moissons anciennes quand
+               sait pas mentir. <lb/><space quantity="1"/>adieu. <lb/><space quantity="1"/>Ô le soleil d’août sur les moissons anciennes quand
                la vallée tout entière chancelle dans les vagues de chaleur transparente et ta
                profonde poitrine nue baigne au fleuve de l’azur sans fond ! Qu’il faisait chaud
-               parmi les seigles plus hauts que nos épaules, plus hauts que nos visages! <lb/>adieu.
-               <lb/>Retourne à ton naïf bonheur. Ta lampe là-bas troue la ténèbre d’un long bras
+               parmi les seigles plus hauts que nos épaules, plus hauts que nos visages! <lb/><space quantity="1"/>adieu.
+               <lb/><space quantity="1"/>Retourne à ton naïf bonheur. Ta lampe là-bas troue la ténèbre d’un long bras
                fauve. Qu’y a-t-il entre nous ? Une fois encore dans ta main ma main maladroite.
-               <lb/>adieu.</hi></p>
+               <lb/><space quantity="1"/>adieu.</hi></p>
          <p>La pâle route à travers la nuit comme un fleuve de lait va reprendre ce misérable et ses
             rauques litanies. Debout mendiant ivre parmi tes croûtons secs et tes blasphèmes ! Les
             chiens surveillent le bonheur des hommes.</p>
-         <dateline>Novembre 1922 <lb/>Juillet 1927</dateline>
+         <dateline><hi rend="italic">Novembre 1922 <lb/>Juillet 1927</hi></dateline>
       </div>
    </body>
 </text>

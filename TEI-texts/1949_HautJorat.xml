@@ -2,11 +2,13 @@
 <text>
    <body>
        <head type="main">Haut-Jorat</head>
-      <p>
+       <p>
           <hi rend="italic"><hi rend="align-right">
               À <persName knoraLink="http://rdfh.ch/0112/HTSdSFyMS1WgbUtdUwUm-Q" ref="http://rdfh.ch/0112/HTSdSFyMS1WgbUtdUwUm-Q">René Balsiger</persName></hi>
           </hi>
       </p>
+      <div n="[En songeant l’autre après-dînée]">
+          <head type="editorial" rend="h1">[En songeant l’autre après-dînée]</head>
        <p>
       En songeant l’autre après-dînée à cette promenade à travers
     le Jorat où convier quelques amis, je me suis aperçu que 
@@ -60,7 +62,8 @@
                <persName knoraLink="http://rdfh.ch/0112/WoDbxm8CQpqYImG3q2Wzhg" ref="http://rdfh.ch/0112/WoDbxm8CQpqYImG3q2Wzhg">Poussin</persName>
                <hi rend="italic">Orphée et Eurydice</hi> (1649-1651) et <hi rend="italic">Paysage
                    avec les funérailles de Phocion</hi> (1648), déjà mentionnés dans
-               <ref target="http://rdfh.ch/0112/-SKhSYWyTjSUoBl0VjxFzw" knoraLink="http://rdfh.ch/0112/-SKhSYWyTjSUoBl0VjxFzw">
+               <ref target="http://rdfh.ch/0112/l4W4K1uOSsGJ-mQSj5CZkA"
+                   knoraLink="http://rdfh.ch/0112/l4W4K1uOSsGJ-mQSj5CZkA">
                    <hi rend="italic">Essai pour un paradis</hi></ref>. « J’étudie toujours sur nature », écrivait Cézanne à Émile Bernard, le
            21 septembre 1906 (Paul Cézanne, Correspondance, éd. John Rewald, Paris,
            Grasset, 1978, p. 327). Roud cite ce mot de Cézanne dans son article « <ref target="http://rdfh.ch/0112/ATbSV3lARRGQz3MpPczZrg"
@@ -224,8 +227,11 @@
         d’extraits des mémoires de Félix Platter, 1536-1614</hi>, telle qu’elle a été publiée
         notamment à Lausanne, chez Bridel, en 1895, pp. 259-261. Roud en a
         probablement pris connaissance dans le <hi rend="italic">Dictionnaire historique, géographique
-        et statistique du canton de Vaud</hi>.</quote>
+        et statistique du canton de Vaud</hi>.</note></quote>
        </p>
+      </div>
+       <div n="[Serait-ce que la mémoire]">
+           <head type="editorial" rend="h1">[Serait-ce que la mémoire]</head>
     
     <p>Serait-ce que la mémoire de ces inquiétants détrousseurs 
     est demeurée comme infuse dans la nappe des forêts, ou à 
@@ -286,7 +292,7 @@
     vers le nord, tout s’allège et s’éclaire, et Mézières 
     atteint, on peut dire que le Jorat tout entier a retrouvé un 
     <hi rend="italic">sens</hi>. Un rythme est né, un grand rythme pur et nu que tout 
-    épouse sans contrainte : la descente parallèle de trois vallons2
+    épouse sans contrainte : la descente parallèle de trois vallons
     
     qui se rejoignent devant l’étroit resserrement de Moudon,
     puis sinuent, fondus en une seule vallée, jusqu’au seuil de
@@ -417,15 +423,9 @@
     toit, la <hi rend="italic">terpine</hi>, ce revêtement de tuiles à même le mur, où
     miroitent les lucarnes des combles. Au lieu de tuiles, les
     maisons modestes ont parfois une cuirasse de tôle rouillée,
-    
-    
-    p. 527
-    
-    
-    
-    
     et je me souviens – nous serions si souvent aveugles sans les
-    peintres ! – que c’est Auberjonois qui m’ouvrit un jour les
+    peintres ! – que c’est <persName ref="http://rdfh.ch/0112/VDFq0IWwS_Wb_tk-jdtQCQ"
+        knoraLink="http://rdfh.ch/0112/VDFq0IWwS_Wb_tk-jdtQCQ">Auberjonois</persName> qui m’ouvrit un jour les
     yeux sur la beauté de couleur de cette tôle, que les intempéries
     moirent peu à peu d’un sombre velours pourpré, d’une
     inépuisable richesse.
@@ -437,27 +437,29 @@
     nous donner cette chose de plus en plus précaire et menacée
     et – dans ces régions du moins – irrémédiablement au bord
     de l’agonie : le dimanche paysan ?
-    <lb/>II y a dans une lettre d’Alain-Fournier un passage parmi
+        <lb/>II y a dans une lettre d’<persName ref="http://rdfh.ch/0112/OKIbLiuuS5ujEM5k5ZSNzg"
+            knoraLink="http://rdfh.ch/0112/OKIbLiuuS5ujEM5k5ZSNzg">Alain-Fournier</persName> un passage parmi
     les plus déchirants qui se puissent. Fournier écrit à ses
     parents d’un bourg de la Sologne où d’exténuantes grandes
-    manoeuvres l’ont amené. « Avant de venir ici, leur dit-il, nous
+    manoeuvres l’ont amené. <quote rend="inline">« Avant de venir ici, leur dit-il, nous
     sommes entrés à deux dans une cour de ferme demander
     du lait. Le village, pourtant, n’était que quelques toits dans
     un bouquet d’arbres au milieu de l’horrible plaine brûlante ;
     mais appuyé à la commode, entre la huche et la grande pendule,
     je sentais tout le grand calme du dimanche paysan
     m’envahir. Calme, fraîcheur, repos. N’est-ce pas ainsi que
-    nous finirons tous notre vie ? »1
+    nous finirons tous notre vie ? »<note type="quote">Lettre écrite le 30 mai 1908 par Alain-Fournier à ses parents. Roud a pu la
+        lire dans <hi rend="italic">Lettres d’Alain-Fournier à sa famille (1905-1914)</hi>, Paris, Librairie Plon,
+        1930, pp. 207-208.</note></quote>
     Qui de nous ne s’est écrié ainsi ? Qui de nous n’a senti au
     profond de lui-même ce désir jamais exaucé ? Laissons-nous
     envahir à notre tour par ce calme et ce repos, sur le banc
     de ferme, au bord de la route fraîchement balayée où le
     balai a dessiné de grands arcs dans la poussière, comme une
     faux. Notre ami le faucheur sort du jardin où il surveillait
-    ses ruches – car c’est le temps des essaims – et vient s’asseoir
-    
+    ses ruches – car c’est le temps des essaims – et vient s’asseoir    
     près de nous. Son fils qui s’ébrouait là-bas au-dessus du
-    bassin1 dans un grand bruit d’eau froissée et de soupirs se
+    bassin dans un grand bruit d’eau froissée et de soupirs se
     redresse et jaillit de l’ombre, s’arrête, bâille et sourit dans
     le soleil, lavé de toute fatigue, pur et nu comme l’Adam du
     sixième Jour. Il s’adosse à la barrière, un bras replié sur son
@@ -476,14 +478,17 @@
     brûler, cette heure qu’en vain nous chercherons désormais
     de ferme en ferme, de village en village et qui n’aura bientôt
     plus qu’un seul refuge : dans notre coeur.
-    
-    Mais ce Jorat d’aujourd’hui harassé de ses lourds travaux,
+</p>
+       </div>
+       <div n="[Mais ce Jorat d’aujourd’hui]">
+           <head type="editorial" rend="h1">[Mais ce Jorat d’aujourd’hui]</head>
+<p>Mais ce Jorat d’aujourd’hui harassé de ses lourds travaux,
     ce Jorat où le dimanche agonise, ne connaît-il plus de fêtes ?
     demanderez-vous. Oui, certes, vous répondrai-je en hâte. Il
     n’y a guère de village où cet été, pour exemple, la « société de
-    jeunesse »1 ne donne une fête bizarrement baptisée kermesse
+    jeunesse » ne donne une fête bizarrement baptisée kermesse
     – un bal, tout simplement, corsé de quelques jeux. Mais la
-    grande fête paysanne de jadis, celle qu’on appelle l’abbaye 2,
+    grande fête paysanne de jadis, celle qu’on appelle l’<hi rend="italic">abbaye</hi>,
     s’est banalisée. Il n’existe plus autour d’elle – qui n’a lieu
     que tous les deux ou trois ans – cette longue attente, ce long
     désir qui lui donnaient l’importance d’un haut événement.
@@ -492,8 +497,8 @@
     moissons, en un point de la saison où cette longue tresse
     de travaux qu’est l’année paysanne semble se dénouer un
     peu. Nous aurions passé en sautoir le cordon rouge, vert et
-    blanc de l’Union des Frères d’armes de Carrouge3, regardé
-    le tir au stand4 niché dans une clairière de sapins, quand
+    blanc de l’Union des Frères d’armes de Carrouge, regardé
+    le tir au stand niché dans une clairière de sapins, quand
     les villageois devenus citadins et revenus pour la fête dans
     leur village, porteurs de carabines d’une sensibilité presque
     maladive, et de miséricordieuses lunettes de tir aux verres
@@ -503,19 +508,18 @@
     Là-bas la cible tourne. Du temps passe. Le silence autour
     du tireur se charge d’angoisse – et, derrière lui, de malice.
     Une éternité de silence. – Mais ce coup, on dirait qu’ils ont
-    
     bien de la peine à le trouver, remarque une voix innocente,
     trop innocente. Hélas ! Une palette bigarrée se lève, se pose
     à l’angle extrême de la cible, hors des cercles, et commence
     son balancement fatal…
-    Nous nous serions assis aux tables du banquet, sous le toit
+    <lb/>Nous nous serions assis aux tables du banquet, sous le toit
     de toile de la cantine, au long des nappes de papier, dans la
     lumière d’herbe qui noircit d’en bas les beaux visages hâlés
     des dîneurs, mais semble au contraire pâlir celui du préfet :
     ce toast à la patrie qu’il faudra porter tout à l’heure – et
     qu’on sent se nouer dans sa tête comme un écheveau sous la
     patte d’un petit chat…
-    Et le cortège est joli par quoi s’ouvre le bal d’aprèsmidi
+    <lb/>Et le cortège est joli par quoi s’ouvre le bal d’aprèsmidi
     – c’est ce qu’on nomme encore « lever les danses » et
     la jeunesse seule y a droit – avec sa longue chaîne de jeunes
     couples guidés à travers le village par une fanfare dorée
@@ -523,28 +527,34 @@
     rituelles, dansées sagement, gravement, par les minces filles
     blanches aux mains brunes et les garçons fauves et noirs.
     Le soir venu, la fête un instant assoupie se rallume, à travers
-    le tempétueux contrepoint du Tannhäuser ébréché des
-    balançoires, de l’Aïda 1 du carrousel et d’une valse ou d’une
+    le tempétueux contrepoint du <ref knoraLink="http://rdfh.ch/0112/CP2KAc5OTIia0R8JX02Mqw"
+        target="http://rdfh.ch/0112/CP2KAc5OTIia0R8JX02Mqw">
+        <hi rend="italic">Tannhäuser</hi></ref> ébréché des
+    balançoires, de l’<ref target="http://rdfh.ch/0112/h-d01auDSgeQx0AMELCb4g"
+        knoraLink="http://rdfh.ch/0112/h-d01auDSgeQx0AMELCb4g">
+        <hi rend="italic">Aïda</hi></ref> du carrousel et d’une valse ou d’une
     mazourque sur le pont des danseurs. Il fait bon goûter le
     vin frais, aux dernières tables, sur la frange de la fête, là où
     luttent les lampes et l’ombre, au bord de la nuit où de temps
     à autre un couple disparaît, où respirent et mûrissent les
     moissons à peine devinées.
-    Jusqu’à ce moment si triste où tout retombe, bien avant
+    <lb/>Jusqu’à ce moment si triste où tout retombe, bien avant
     l’aube, quand les lampes vont s’éteindre, qu’un souffle glacé
     bruit soudain aux branches du tilleul et vous serre à la gorge
     comme une main. Voici, né d’une heure semblable, un petit
     poème qui s’intitule
-    
-    <P>Sommeil d’Aimé</P>
-    La fête s’est dénouée comme une gerbe.
-    Oh ! Louis, ne partons pas encore. C’est si triste, ivre de
+</p>
+      </div>
+       <div n="Sommeil d’Aimé">
+    <head rend="h1">Sommeil d’Aimé</head>
+    <p>La fête s’est dénouée comme une gerbe.
+    <lb/>Oh ! Louis, ne partons pas encore. C’est si triste, ivre de
     danse et de vin froid, ce peuple de moissonneurs qu’abandonne
     brusquement la joie ! Il perd pied. Chacun retombe
     en tâtonnant hors de soi-même. L’un trébuche dans un
     chant sans issue, l’autre renverse un verre amer. Sur un cri
     de clarinette, la dernière polka se rompt.
-    Louis, que de fois rêvée, cette fête qui va mourir avec
+        <lb/>Louis, que de fois rêvée, cette fête qui va mourir avec
     la nuit ! Rappelle-toi. Par les champs mordus de faux silencieuses,
     qui de nous, arrachant à l’ombre la cruche de cidre,
     les bras brûlés, qui de nous n’a vu ces longues tables d’aujourd’hui
@@ -552,27 +562,26 @@
     que les musiciens seulement se reposent. Et là-bas le
     carrousel tourne encore, avec ses gondoles, ses lions et ses
     cygnes. Louis !
-    Mais Louis qui sait qu’on ne ranime pas une fête moribonde
+        <lb/>Mais Louis qui sait qu’on ne ranime pas une fête moribonde
     sourit, se lève, s’en va. Et Jeanne, et Rose, avec un petit
     soupir. Pierre s’éveille de cette longue colère désespérée qui,
     depuis des heures, lui fait ce regard cruel et les lèvres avec
     un pli. Sous l’arbre où nos chevaux nous attendent, c’est lui
     maintenant qui pleure, le visage contre une sombre crinière.
-    Une fois encore le bonheur a fui dans le temps même
+        <lb/>Une fois encore le bonheur a fui dans le temps même
     où nous allions le surprendre. C’était pour mieux l’accueillir,
     nos habits sombres, nos robes avec leurs belles ceintures
     de soie. En vain. Peut-être n’aime-t-il pas qu’on le poursuive.
     Adieu Hélène, adieu Pierre. Essayerons-nous encore ?
-    Hélène là-bas nous appelle sans répondre, d’un seul doigt
-    qu’elle pose ensuite sur ses lèvres. C’est un homme endormi.
-    
+        <lb/>Hélène là-bas nous appelle sans répondre, d’un seul doigt
+    qu’elle pose ensuite sur ses lèvres. C’est un homme endormi.    
     Le carrousel qui fauche l’espace d’un bras de lumière, d’un
     bras d’ombre, éclaire, éteint la jeune tête contre les ramures.
     – Aimé, dit Louis doucement, c’est Aimé. Toute la semaine
     il a moissonné comme un fou. Hier encore ils ont rentré
     six cents gerbes ! Pierre s’approche, la main tendue, s’arrête.
     Rose cueille une rose de papier, se penche, la laisse choir.
-    Il a donné une main à la nuit ; l’autre dort près du
+        <lb/>Il a donné une main à la nuit ; l’autre dort près du
     verre, délivrée de la faux, délivrée de la coupante paille des
     liens (ces gerbes sous le genou comme des corps vivants se
     débattent). Il est entré dans son repos, faudrait-il dire, mais
@@ -585,16 +594,20 @@
     un à un devenus prisonniers du souffle. Qui va rompre le
     cercle magique où les sursauts de la fête comme une écume
     expirent ?
-    Rose frissonne, pose sa petite main dans la large main
+        <lb/>Rose frissonne, pose sa petite main dans la large main
     fauve abandonnée, et la bouche contre l’oreille absente, sourdement,
-    patiemment, dispute à l’ombre sa proie humaine.
-    
-    Une autre fête maintenant nous fait signe, une course de
+    patiemment, dispute à l’ombre sa proie humaine.</p>
+       </div>
+       
+       
+       <div n="[Une autre fête maintenant]">
+           <head type="editorial" rend="h1">[Une autre fête maintenant]</head>
+           <p>Une autre fête maintenant nous fait signe, une course de
     chevaux à Chapelle, et j’ai hâte, avant notre séparation, de
     vous y conduire et de revoir ainsi avec vous, sur la marge
     de ce pays qu’on appelle le Gros-de-Vaud, une autre et belle
     région du Jorat.
-    Choisissons peut-être un dimanche vers la fin de mai
+    <lb/>Choisissons peut-être un dimanche vers la fin de mai
     et partons, si vous le voulez, de la ferme de notre ami de
     Vucherens. Tôt dans la matinée, non tant pour arriver de
     bonne heure là-haut – le matin il n’y a que des concours
@@ -609,18 +622,21 @@
     feuilles et d’oiseaux, jusqu’à la passerelle jetée sur l’eau vive
     et l’écume. C’est là que les enfants cueillent parfois la rare
     orchidée qu’on appelle sabot de Vénus. On remonte, on traverse
-    Hermenches, le village des heures sans minutes, car
-    l’horloge de l’école n’a qu’une main1, – un village un peu
-    perdu, à demi réel dirait-on, comme ce Benjamin Constant
-    dont la famille en eut la seigneurie2… Un espace de champs,
+               <placeName ref="http://rdfh.ch/0112/U0XsqnH7TFaXaq72-6onlQ"
+                   knoraLink="http://rdfh.ch/0112/U0XsqnH7TFaXaq72-6onlQ">Hermenches</placeName>,
+               le village des heures sans minutes, car
+    l’horloge de l’école n’a qu’une <hi rend="italic">main</hi>, – un village un peu
+               perdu, à demi réel dirait-on, comme ce Benjamin <persName
+                   knoraLink="http://rdfh.ch/0112/OGE7r-wOT02-e9pBmbHblA"
+                   ref="http://rdfh.ch/0112/OGE7r-wOT02-e9pBmbHblA">Constant</persName>
+    dont la famille en eut la seigneurie… Un espace de champs,
     puis c’est la descente dans un nouveau ravin, la remontée
-    vers Sottens sous le vain bourdonnement des antennes3. La
+    vers Sottens sous le vain bourdonnement des antennes. La
     route s’allonge à plat parmi les champs et les prairies, puis
     se divise au carrefour, mais nous saurons choisir la bonne, à
-    
     cause de ces pas de chevaux frappés dans la poussière et qui
     s’en vont tous vers le nord.
-    À notre gauche, vers le couchant, un vaste pays apparaît,
+               <lb/>À notre gauche, vers le couchant, un vaste pays apparaît,
     sillonné de coteaux légers, taché de villages rouges aux beaux
     noms jusqu’au mol trait bleu de gentiane du Jura. Mais déjà
     Chapelle nous accueille au coup de midi ; déjà son haut battoir
@@ -634,18 +650,19 @@
     de papier ? Village heureux, plein de vives fontaines, où l’air
     pour tout un jour aura ce goût des vraies fêtes paysannes
     et sent la poussière, le crottin chaud, les jardins et les prés
-    fleuris ! Au balcon1 de l’auberge où ils dînent, les dragons
+    fleuris ! Au balcon de l’auberge où ils dînent, les dragons
     ont suspendu leurs fanions brodés d’or qui flambent dans la
     lumière : celui du Jorat, ceux d’Oron, d’Échallens – celui de
     la Compagnie des dragons de Lavaux où l’on voit le portrait
-    du Major2 et une belle et lourde grappe de raisin3… La place
+    du <persName knoraLink="http://rdfh.ch/0112/y8B2jPCpSbOY2qaLAebLZw"
+        ref="http://rdfh.ch/0112/y8B2jPCpSbOY2qaLAebLZw">Major</persName>
+               et une belle et lourde grappe de raisin… La place
     est une fournaise éblouissante avec une rive d’ombre toute
     criante de petites filles. Et la fanfare déjà se met en rangs.
-    Un coup de grosse caisse et de cymbales, un rugueux
+               <lb/>Un coup de grosse caisse et de cymbales, un rugueux
     accord de trompettes, et voici que le défilé des cavaliers commence,
     deux à deux, côte à côte, les vignerons, les moissonneurs,
     solides et souples en selle, les rênes enroulées à leurs
-    
     poings bruns, de grands creux d’ombre au visage sous les
     nappes de lumière. Par la route entre les vergers s’allonge
     sans fin la double file des croupes luisantes et moirées – et
@@ -674,13 +691,13 @@
     précipité des sabots sur le gazon – et tout à coup
     le cheval vainqueur, de toute sa force à la fois déchaînée et
     dominée, troue en trombe la vague d’acclamations et de cris.
-    Chapelle, lieu d’une vraie fête, lieu aussi de notre séparation,
+               <lb/>Chapelle, lieu d’une <hi rend="italic">vraie</hi> fête, lieu aussi de notre séparation,
     car où notre promenade pourrait-elle mieux prendre
     fin ? Dispersons-nous donc parmi la foule jusqu’à l’heure
     du vin frais dans l’ombre grandissante, quand le soleil
     empourpre d’un dernier rayon de sang le beau visage un
     instant du dernier dragon au-dessus du dernier obstacle – et
-    sombre à l’horizon d’un seul coup.
-       
+    sombre à l’horizon d’un seul coup.</p>
+       </div>
    </body>
 </text>
