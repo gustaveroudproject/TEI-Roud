@@ -5,24 +5,25 @@
    <body>
       <head type="main">Requiem</head>
      <div n="I">
-        <head rend="h1">I</head>
+        <head rend="h1"><hi rend="align-center">I</hi></head>
     
-         <p><hi rend="align-right"><l><hi rend="italic">L’herbe perpétuelle luit.</hi></l>
-            <l><persName ref="http://rdfh.ch/0112/3DeFLKhnQ765ajN8eAZTtQ" knoraLink="http://rdfh.ch/0112/3DeFLKhnQ765ajN8eAZTtQ">Maurice Chappaz</persName></l>
-         <l>(<hi rend="italic"><ref target="http://rdfh.ch/0112/seB1ylHVTNSBqSaytZC_ZQ" knoraLink="http://rdfh.ch/0112/seB1ylHVTNSBqSaytZC_ZQ">Office des morts</ref></hi>)</l>
-         </hi>
+         <p>
+             <hi rend="align-right">
+                 <hi rend="italic">L’herbe perpétuelle luit.</hi>
+                 <lb/><persName ref="http://rdfh.ch/0112/3DeFLKhnQ765ajN8eAZTtQ" knoraLink="http://rdfh.ch/0112/3DeFLKhnQ765ajN8eAZTtQ">Maurice Chappaz</persName>
+                 <lb/>(<hi rend="italic"><ref target="http://rdfh.ch/0112/seB1ylHVTNSBqSaytZC_ZQ" knoraLink="http://rdfh.ch/0112/seB1ylHVTNSBqSaytZC_ZQ">Office des morts</ref></hi>)
+            </hi>
         </p>
      <p>
          Non pas cette neige d’une nuit sous le pâle soleil rose, 
          où le regard au lacs de mille signes déchiffre avec ennui 
-         les feintes, les chasses, les famines de tant de bêtes glac
-         ées! Qu’ai-je à faire de ces traces trop pareilles à celles
-         des hommes ? Elles s’en vont toutes vers la tanière et vers le sang.
-         <lb/>La neige a d’autres signes. Son épaule la plus pure, des 
+         les feintes, les chasses, les famines de tant de bêtes glacées&#160;! Qu’ai-je à faire de ces traces trop pareilles à celles
+         des hommes&#160;? Elles s’en vont toutes vers la tanière et vers le sang.
+         <lb/><space quantity="1"/>La neige a d’autres signes. Son épaule la plus pure, des 
          oiseaux parfois la blessent d’un seul battement de plume. Je 
          tremble devant ce sceau d’un autre monde. Écoute-moi. Ma 
          solitude est parfaite et pure comme la neige. Blesse-la des 
-         mêmes blessures. Un battement de coeur, une ombre, et ce 
+         mêmes blessures. Un battement de cœur, une ombre, et ce 
          regard fermé se rouvrira peut-être sur ton <hi rend="italic">ailleurs</hi>.
      </p>
          <p>Viens. Il n’y a personne. Je suis seul avec les oiseaux. Je
@@ -43,14 +44,16 @@
          dans l’herbe, les labours, la neige. Tu ne me quittes plus.
          Tu es là toute proche, ô pauvre présence timide, une voix,
          une aile, une ombre. Tu n’es plus lasse comme jadis. C’est toi
-         maintenant qui me supplies : Repose-toi, repose !
-         <lb/>Mais tu sais bien qu’il n’y a pas de repos.</p>
+         maintenant qui me supplies&#160;: Repose-toi, repose&#160;!
+             <lb/><space quantity="1"/>Mais tu sais bien qu’il n’y a pas de repos.
+             <lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/>
+         </p>
          
-         <p>Au-delà des fenêtres, hier, cette bataille d’anges !</p>  
+         <p>Au-delà des fenêtres, hier, cette bataille d’anges&#160;!</p>
          
-     <p>    
-         <lb/>Leurs blancheurs par myriades épaissies noircissaient le
-         ciel de fausses ténèbres : une ruée silencieuse, un désarroi
+         
+     <p>Leurs blancheurs par myriades épaissies noircissaient le
+         ciel de fausses ténèbres&#160;: une ruée silencieuse, un désarroi
          de feuilles mortes, ces corps jusqu’à la vraie nuit précipités
          sans fin sur le jardin terrassé. Et les voici qui dorment au
          matin, lutteurs légers roulés dans leur grande aile de sel étincelante,
@@ -58,33 +61,34 @@
          neige de l’absolu, charnier de givre, neige des signes trop tôt
          descendue, fondue en pluie grasse et bue âprement par les
          racines aux abois…
-         <lb/>Étoilez-vous sans peur, asters de l’extrême-automne, le
-         temps de l’adieu n’est pas encore venu ! C’est vous qu’on
+         <lb/><space quantity="1"/>Étoilez-vous sans peur, asters de l’extrême-automne, le
+         temps de l’adieu n’est pas encore venu&#160;! C’est vous qu’on
          appelle dans mon pays des <hi rend="italic">vendangeuses</hi> et vous fleurissez
          parfois hors de l’obscur quand les chars du jeune vin qui
          traversent lentement la nuit vous frôlent en balançant à
          leurs futailles le feu rose d’une lampe. Vous-mêmes vendangés,
          proie des abeilles, hautes hampes bleu-de-brume que
-         je brisais par brassées pour une chambre sans miroir ! Et là
-         vous attendait, patiente et résignée à sa prison jusqu’au oui
+         je brisais par brassées pour une chambre sans miroir&#160;! Et là
+         vous attendait, patiente et résignée à sa prison jusqu’au <hi rend="italic">oui</hi>
          suprême des recluses, la seule abeille d’un regard.
-         <lb/>Oh de quel miel amer nourrie ! Yeux vivants séparés de
+         <lb/><space quantity="1"/>Oh de quel miel amer nourrie&#160;! Yeux vivants séparés de
          l’immense ruche du monde, vos vains appels au-delà des
-         vitres vers les roses refleuries et l’automne en feu des vergers !
-         Lieu de torture, ô geôle ! Le temps et l’éternel aux prises s’y
+         vitres vers les roses refleuries et l’automne en feu des vergers&#160;!
+         Lieu de torture, ô geôle&#160;! Le temps et l’éternel aux prises s’y
          acharnaient sur une chair déchirée et qui sentait s’épaissir en
          elle chaque soir le sourd triomphe du marbre sur le sang. Le
          temps lui-même acceptait sa défaite, détachait doucement ta
          chambre du fleuve de la saison comme une barque vers sa
-         rive immobile. Aux murs déjà rongés d’<hi rend="italic">ailleurs</hi>,les signaux de
+         rive immobile. Aux murs déjà rongés d’<hi rend="italic">ailleurs</hi>, les signaux de
          la terre et du ciel égaraient une dernière caresse. La lumière,
          la nuit naissaient toujours plus loin de tes sommeils. Mais
          les volets béant soudain sur l’abîme d’ombre et de lueurs, si
          j’implorais des étoiles une jubilation moins aiguë, Orion à
          la cime du noyer nu toujours plus présent, plus proche, me
-         versait pour toute réponse un pâle miel empoisonné.</p>
+         versait pour toute réponse un pâle miel empoisonné.
+         <lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/></p>
          
-         <p>Est-ce que tu te souviens encore ? Les pauses miséricordieuses
+         <p>Est-ce que tu te souviens encore&#160;? Les pauses miséricordieuses
          parfois qui venaient rompre cette obsession de l’éternité,
          les musiques, les visages et soudain, sur le sable même
          de la rive absolue, le dernier adieu du temps… La lumière
@@ -97,35 +101,37 @@
          dore et détend les doigts qu’il ramène à leur repos.
          Tes mains dorment dans l’ombre. Là-bas la première abeille
          de l’année frôle une vitre et fuit. Une abeille, un rayon, quel
-         adieu plus léger ?
-         <lb/>Mais déjà ton oreille est close et sur ces lèvres scellées,
+         adieu plus léger&#160;?
+             <lb/><space quantity="1"/>Mais déjà ton oreille est close et sur ces lèvres scellées,
          l’absence dessine le lent sourire sans réponse qui ne s’effacera
-         plus.</p>
+         plus.
+             <lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/></p>
          
          <p>Entre les roses noircies et ces traînées de bave orange
          hier encore capucines, un aster tend ses rameaux de fleurs
-         fripées, tremble silencieusement, supplie ! Détresse pour
+         fripées, tremble silencieusement, supplie&#160;! Détresse pour
          détresse, il n’est pas d’abîme entre celle des plantes et celle
          des hommes. L’absolu d’une solitude les rapproche jusqu’à
-         l’échange : j’ai vécu cette mutuelle pitié. C’est pourquoi
+         l’échange&#160;: j’ai vécu cette mutuelle pitié. C’est pourquoi
          j’entends l’appel à peine balbutié là-bas dans la bise. J’irai
          toucher les minces tiges mordues par le gel, je les caresserai
          comme elles avaient frôlé jadis l’épaule du rôdeur jeté dans
          un vertige de néant contre leur touffe moribonde.
-         <lb/>J’irai – mais quelle lourde présence retrouve ce jadis peu
-         à peu ! La même liqueur entre les mains tressées, la même
+             <lb/><space quantity="1"/>J’irai – mais quelle lourde présence retrouve ce jadis peu
+         à peu&#160;! La même liqueur entre les mains tressées, la même
          odeur prise aux rideaux, cigare éteint, poussière… Quelle
-         mollesse m’englue à cette table ? Où m’efforcer à pas de
-         plomb ?
-             <lb/>J’irai – mais déjà le tain de la nuit se fige aux fenêtres
+         mollesse m’englue à cette table&#160;? Où m’efforcer à pas de
+         plomb&#160;?
+             <lb/><space quantity="1"/>J’irai – mais déjà le tain de la nuit se fige aux fenêtres
          basses. Chaque vitre m’aveugle et m’assène un double sans
-         merci. Perdu dans le puits des miroirs ; emmuré tout vivant
+         merci. Perdu dans le puits des miroirs&#160;; emmuré tout vivant
          avec moi-même. Seul. Innombrable. Seul.
-             <lb/>Seul, sans avoir caressé ni cueilli la tige étoilée qui devait
+             <lb/><space quantity="1"/>Seul, sans avoir caressé ni cueilli la tige étoilée qui devait
          me rouvrir, plus puissante qu’un rameau d’or, notre royaume.
          Seul, et quelle flaque de sang dans le noir où piéger l’Ombre
-         peureuse ? Seul. Une lampe éclate, une heure tonne. Seul.
-         L’auberge des vivants n’est plus celle des morts.</p>
+         peureuse&#160;? Seul. Une lampe éclate, une heure tonne. Seul.
+         L’auberge des vivants n’est plus celle des morts.
+             <lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/></p>
          
          <p><lg><l>Aux berges de la rivière on cueille
          </l><l>le mélilot blanc la vipérine
@@ -138,15 +144,16 @@
          <lg><l>L’air a le goût du noir gel nocturne
          </l><l>et se déchire au cor des chasseurs
          </l><l>Un oiseau perdu lustre ses plumes
-         </l><l>avec un triste cri perce-coeur</l></lg>
+         </l><l>avec un triste cri perce-cœur</l></lg>
          <lg><l>Tais ce cri Nul ne le peut entendre
          </l><l>Ne fatigue plus ton frêle corps
-         </l><l>Je sais qui m’appelle et se lamente
+         </l><l>Je <hi rend="italic">sais</hi> qui m’appelle et se lamente
          </l><l>les yeux clos sous le soleil des morts</l>
-      </lg></p>
+      </lg>
+             <lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/></p>
          
          <p>Ô cet aguet, ce dernier piège de l’éternel que tu m’as
-         tendu sur le chemin des moissons mûres ! Un seul mot dans
+         tendu sur le chemin des moissons mûres&#160;! Un seul mot dans
          la brûlure de midi, un cri soudain comme une flèche – et
          le ciel se fend. Toute la puissance d’<hi rend="italic">ailleurs</hi> croule sur le
          monde, fouaille un troupeau de collines affolées, noircit et
@@ -154,25 +161,23 @@
          en longue file et les balaie au néant comme les oripeaux
          d’une fête éteinte. Il n’y a plus devant moi qu’une tache
          d’<hi rend="italic">autre</hi> lumière où je trébuche et tombe, ébloui.
-         <lb/>Terrassé sous une grande cloche de lumière et le battement
-         de ces cris toujours plus précipités, comme d’un coeur
+             <lb/><space quantity="1"/>Terrassé sous une grande cloche de lumière et le battement
+         de ces cris toujours plus précipités, comme d’un cœur
          qui suffoque sous l’afflux du sang, succombe,</p>
          
-            <p><hi rend="italic">mon fils<space quantity="1"/>mon fils<space quantity="1"/>mon petit<space quantity="1"/>mon fils</hi></p>
-         
-         <p>prostré sous cet arc d’appels d’un bord à l’autre du silence</p>
-         
-         <p><hi rend="italic"><hi rend="align-center">mon fils</hi></hi></p>
-         
-         <p>une fois encore, à l’extrême de l’ouïe, comme un dernier
-         battement de plume</p>
-         
-         <p>puis la voix tue, à jamais.</p>
+            <p><hi rend="italic">mon fils<space quantity="1"/>mon fils<space quantity="1"/>mon petit<space quantity="1"/>mon fils</hi>
+                
+                <lb/><lb/>prostré sous cet arc d’appels d’un bord à l’autre du silence
+                <lb/><lb/><hi rend="italic"><space quantity="4"/>mon fils</hi>
+                <lb/><lb/>une fois encore, à l’extrême de l’ouïe, comme un dernier
+         battement de plume
+                <lb/><lb/>puis la voix tue, à jamais.
+                <lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/></p>
          
          <p>Je pose un pas toujours plus lent dans le sentier des signes
          qu’un seul froissement de feuilles effarouche. J’apprivoise les
          plus furtives présences. Je ne parle plus, je n’interroge plus,
-         j’écoute. Qui connaît sa vraie voix ? Si pure jaillisse-t-elle,
+         j’écoute. Qui connaît sa vraie voix&#160;? Si pure jaillisse-t-elle,
          un arrière-écho de sang sourdement la charge de menace.
          C’est l’homme de silence que les bêtes séparent seul de la
          peur. Hier une douce biche blessée a pris refuge tout près
@@ -181,10 +186,10 @@
          et trouent à coups de bec une mince toile de musique. Un
          roitelet me suit de branche en branche à hauteur d’épaule.
          J’avance dans la paix. Qu’importe si la prison du temps sur
-         moi s’est refermée ? Je sais que tu ne m’appelleras plus. Mais
+         moi s’est refermée&#160;? Je sais que tu ne m’appelleras plus. Mais
          tu as choisi tes messagers. L’oiseau perdu, la plus tremblante
          étoile, le papillon des âmes, neige et nuit, qui essaime aux
-         vieux saules, tout m’est présence, appel ; tout signifie. Ces
+         vieux saules, tout m’est présence, appel&#160;; tout signifie. Ces
          heures qui se fanent une à une derrière moi comme les bouquets
          jetés par les enfants dans la poussière, je sais qu’elles
          fleurissent ensemble au jardin sans limites où tu te penches
@@ -194,10 +199,10 @@
          de ta mémoire. Tu <hi rend="italic">sais</hi> enfin.</p>
          <p>L’ineffable. Et pourtant, l’âme sans défense ouverte au
          plus faible cri, j’attends encore.</p>
-          </div>
+     </div>
          
-         <div n="II">
-         <head rend="h1">II</head>
+     <div n="II">
+         <head rend="h1"><hi rend="align-center">II</hi></head>
          <p>Parfois je redescends vers le bosquet riverain de sapins et
          de frênes où ma vie a reçu jadis sa secrète blessure d’éternité.
          Je retrouve un lieu sans mémoire, absent et familier tout
@@ -211,41 +216,41 @@
          l’humain que je m’épuise à la vouloir saisir, tandis qu’à mon
          épaule grésille une petite pluie d’aiguilles et d’écorces, la
          salutation là-haut d’un écureuil.
-         <lb/>Vains retours, et de tous le plus vain celui d’aujourd’hui
+         <lb/><space quantity="1"/>Vains retours, et de tous le plus vain celui d’aujourd’hui
          peut-être. Mais il fallait reprendre le chemin. Je n’en pouvais,
          je n’en puis plus de cerner en moi ce mystère où tout
-         inexorablement me renfonce. Tu le sais : au centre de ma
+         inexorablement me renfonce. Tu le sais&#160;: au centre de ma
          vie, il y a cette faille, cette transparence, ce suspens indicible
          sur quoi se fixent, fascinés, mon regard et ma pensée. Un
          jour, je fus admis vivant à l’éternel.
-         <lb/>Ici même, dans cet espace innocent d’eaux vives, de
+             <lb/><space quantity="1"/>Ici même, dans cet espace innocent d’eaux vives, de
          feuillages et d’oiseaux si vite rassurés. L’éternel n’est pas
          une Terre promise à la pointe extrême d’un chemin de
          sueurs et de larmes, et nul n’en pourrait forcer l’accès
          par quelque intrusion frauduleuse, puisque nous sommes
-         en lui. La connaissance qu’une grâce nous en accorde est
+         <hi rend="italic">en lui</hi>. La connaissance qu’une grâce nous en accorde est
          brutale comme un rapt. C’est <hi rend="italic">lui</hi> qui entre en nous dans
-            un tremblement foncier, irrépressible de tout l’être ; notre
-         cécité nous est arrachée d’un coup, comme la taie d’un oeil
-         tari. Celle du corps, celle du coeur, et la voix de nos morts
+            un tremblement foncier, irrépressible de tout l’être&#160;; notre
+         cécité nous est arrachée d’un coup, comme la taie d’un œil
+         tari. Celle du corps, celle du cœur, et la voix de nos morts
          s’élève aussitôt dans une ample et soudaine plénitude.
          Non plus vos anciens appels épeurés, toujours plus proches
          du silence, mais l’hymne triomphal mystérieusement
-         accordé à celui du sang, ce sang que j’entends et vois couler
+         accordé à celui du sang, ce sang que j’entends et <hi rend="italic">vois</hi> couler
          comme une sève mystique en chaque veine du monde.
-             <lb/>Oui, j’ai été cet homme traversé. Les doigts noués au
+             <lb/><space quantity="1"/>Oui, j’ai été cet homme traversé. Les doigts noués au
          mince tronc d’un frêne adolescent (j’en sens encore la lisse
          fraîcheur à mes paumes), j’ai soutenu de tout mon corps
          l’irruption de l’éternel, j’ai subi l’assaut de l’ineffable, j’ai
          vu la vraie lumière, la même, baigner toutes ces choses
          périssables autour de moi, leur infuser une splendeur de
          symphonie…
-             <lb/>Depuis, un <hi rend="italic">jamais plus</hi> silencieux a lentement pris possession
+             <lb/><space quantity="1"/>Depuis, un <hi rend="italic">jamais plus</hi> silencieux a lentement pris possession
          du site. À chaque retour, j’y ai senti le temps aux
          aguets, soucieux de venger sa défaite d’un jour en multipliant
          les mirages, éludant par mille artifices les seules
-         questions qui me reviennent toujours aux lèvres : « Qui
-         l’a voulu, pourquoi ? » Sur son ordre, tout a rejoint sa plus
+         questions qui me reviennent toujours aux lèvres&#160;: «&#160;Qui
+         l’a voulu, pourquoi&#160;?&#160;» Sur son ordre, tout a rejoint sa plus
          quotidienne ressemblance et la soutient sans défaut, tout,
          jusqu’à la plume de ramier perdue, jusqu’à l’ombre d’une
          graminée sur le sentier. Mais l’espérance est têtue et crédule.
@@ -253,9 +258,9 @@
          ramener ici vers une quête sans réponse. Elle m’arrache au
          désarroi, elle innocente les êtres et les choses de leur naïve
          feinte. <hi rend="italic">Le temps les force à mentir</hi>, me souffle-t-elle, <hi rend="italic">ils imitent
-         l’oubli, mais tu le sens, eux aussi se souviennent de cette lumière ;
-         ne les abandonne pas !</hi>
-             <lb/>J’obéis. Je retourne au pied du frêne d’autrefois. Je salue
+         l’oubli, mais tu le sens, eux aussi se souviennent de cette lumière&#160;;
+         ne les abandonne pas&#160;!</hi>
+             <lb/><space quantity="1"/>J’obéis. Je retourne au pied du frêne d’autrefois. Je salue
          le large fût, la couronne de feuilles légères et de mésanges.
          Une fois encore, je caresse doucement l’écorce aux profondes
          gerçures, toute tigrée de mousse et de lichens. Et
@@ -263,29 +268,30 @@
          plus insensible que la mort l’apparition miséricordieuse
          d’un signe, d’un souvenir, du reflet d’un reflet, une touche
          de soleil un peu trop vive, la tache d’or que l’ombre n’abolirait
-         plus.</p>
+         plus.
+             <lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/></p>
          
-         <p>Octobre… Mais les mois ont-ils gardé pour toi leurs noms ?
+         <p>Octobre… Mais les mois ont-ils gardé pour toi leurs noms&#160;?
          La nuit, la bise chasse une lune glacée aux pentes du ciel et sur
          la terre les premières feuilles errantes. On les trouve au matin
-         toutes pressées contre le seuil. Étranges présents de l’aube !
+         toutes pressées contre le seuil. Étranges présents de l’aube&#160;!
          Il y a parfois une petite souris morte ensanglantée, quelques
          plumes, les grains tombés des grappes de vigne vierge où
          le merle fourrage du bec, ailes battantes. Des troupeaux de
          cloches suffoquent dans le brouillard. Est-ce lui qui étouffe
-         aussi ta voix, la mienne ? À qui parler si tu ne m’entends plus ?
+         aussi ta voix, la mienne&#160;? À qui parler si tu ne m’entends plus&#160;?
          La vie a muré les hommes comme la plus exacte des tombes,
-         ce peuple de sourds, les oreilles rompues de leur propre sang !
+         ce peuple de sourds, les oreilles rompues de leur propre sang&#160;!
          Et tu sais <hi rend="italic">qui</hi> m’a conduit loin d’eux jusqu’à cette région perdue
-         ; tu sais les appels, l’adieu, les larmes bues aux sables du
+        &#160;; tu sais les appels, l’adieu, les larmes bues aux sables du
          désert intérieur… Chaque nuit, chaque jour j’atteins vivant
          cette frontière du temps que nul pourtant ne passe avant son
-         dernier battement de coeur, nappe de neige trouée à chaque
+         dernier battement de cœur, nappe de neige trouée à chaque
          pas, toujours plus mince, sa frange extrême enfin fondue à ce
          banc de brume ou d’absence qui est <hi rend="italic">Ailleurs</hi>.
-         <lb/>Délivre-moi de mon secret, il <hi rend="italic">faut</hi> que tu m’entendes. Ah !
+             <lb/><space quantity="1"/>Délivre-moi de mon secret, il <hi rend="italic">faut</hi> que tu m’entendes. Ah&#160;!
          comment vivre tel entre deux mondes, écartelé sans rémission
-         ? Et la lumière, mon dernier recours, m’a trahi. Fidèle
+        &#160;? Et la lumière, mon dernier recours, m’a trahi. Fidèle
          autrefois, prompte à répondre au moindre regard quêtant
          l’heure, la saison, le point du jour, à peine maintenant m’a-telle
          suivi jusqu’aux confins du temps qu’elle le nie avec une
@@ -294,17 +300,16 @@
          des grottes éblouissantes où mes morts accueillent d’un seul
          battement de cils la clarté retrouvée, achevant sans hâte leur
          geste interrompu. Tous présents, d’une indicible présence –
-         et toi seule attendue en vain. Ah ! peut-être y a-t-il un autre
+         et toi seule attendue en vain. Ah&#160;! peut-être y a-t-il un autre
          <hi rend="italic">ailleurs</hi> encore où tu te dérobes, irritée de mon accès fugace
          à l’éternel. Pardonne-moi. C’est toi seule que j’appelle, toi
-         seule, tu le sais.</p>
-         
-         <p>Octobre… La brume déchirée a fui, le soleil tiédit la haie
+         seule, tu le sais.
+             <lb/><space quantity="1"/>Octobre… La brume déchirée a fui, le soleil tiédit la haie
          d’un doux vert de cendre. Seules les plus hautes feuilles
          cèdent à la bise, flottent un instant sur le revers du ciel,
          puis rejoignent en grésillant leur ombre parmi l’herbe et
          la chair nue des colchiques. Un laboureur avance au long
-         de l’éteule ; son pas marque le temps dans la terre grasse,
+         de l’éteule&#160;; son pas marque le temps dans la terre grasse,
          le temps humain, et la lumière suit l’attelage comme une
          humble servante aux mains dorées. Elle s’arrête quand le
          garçon debout à la pointe du sillon rappelle ses chevaux à la
@@ -313,24 +318,24 @@
          une épaule, un bras pur… Et la voix sonne de nouveau
          comme un appel, vive et tendre. La seule qui te parvienne
          là-bas dans sa vérité de chair et de sang plus puissante que la
-         mort. Peut-être l’entendais-tu déjà ; peut-être, saisie à l’écouter
+         mort. Peut-être l’entendais-tu déjà&#160;; peut-être, saisie à l’écouter
          d’un obscur regret du périssable, as-tu repris la route sans
-         mesure, ivre de reboire à la source de l’instant ; peut-être
-         es-tu là parmi nous ; peut-être, et tu trembles, ô présence
+         mesure, ivre de reboire à la source de l’instant&#160;; peut-être
+         es-tu là parmi nous&#160;; peut-être, et tu trembles, ô présence
          plus menacée, plus fragile qu’une feuille…</p>
          </div>
          
          <div n="III">
-         <head rend="h1">III</head>
+         <head rend="h1"><hi rend="align-center">III</hi></head>
          <p>Cette demeure que je n’ai plus la force d’assumer s’enlise
          dans les herbes mauvaises, sournoisement, les pierres des
          murailles descellées, une mousse aveugle sur chaque tuile,
-         au coeur du jardin qui s’ensauvage sans retour… Une à une,
-         les plantes usées s’effondrent sous l’ortie et le chardon ; la
-         clématite mauve est morte. Ah ! que tu ne saches rien de
+         au cœur du jardin qui s’ensauvage sans retour… Une à une,
+         les plantes usées s’effondrent sous l’ortie et le chardon&#160;; la
+         clématite mauve est morte. Ah&#160;! que tu ne saches rien de
          cette agonie. Comment pourrons-nous vivre dans un <hi rend="italic">ici</hi> qui
-         ne ressemble plus ?
-         <lb/>Le plus triste : cette pitié des êtres et des choses qui voudraient
+         ne ressemble plus&#160;?
+             <lb/><space quantity="1"/>Le plus triste&#160;: cette pitié des êtres et des choses qui voudraient
          nous soutenir encore, de toutes parts. La fontaine,
          nuit et jour, où viennent s’abreuver les derniers chevaux –
          et leurs maîtres charitables raniment pour un temps notre
@@ -342,25 +347,24 @@
          entrailles terrestres, ces régions de sable, de ténèbre et de
          roc où suinte et se compose goutte à goutte sa source profonde.
          Qui l’entendra désormais bruire au bord de ses rêves
-         d’été, leur fièvre vaincue par sa fraîcheur ?
-             <lb/>Tout ici commence à douter de soi, scrute anxieusement
+         d’été, leur fièvre vaincue par sa fraîcheur&#160;?
+             <lb/><space quantity="1"/>Tout ici commence à douter de soi, scrute anxieusement
          son être même, toujours plus menacé. Les grandes constellations
          là-haut paissent et piétinent en cercle au-dessus du toit
          l’herbe noire de la nuit, étincelantes, mais oublieuses lentement
-         de leur nom, vacillant sur le bord même de l’absence.</p>
-         
-         <p>Et le vent d’aube que tu aimais, familier du tilleul en fleur,
+         de leur nom, vacillant sur le bord même de l’absence. Et le vent d’aube que tu aimais, familier du tilleul en fleur,
          des roses endormies, verse en vain aux façades sans accueil
          ses lentes libations d’odeurs.
-         <lb/>Ô notre désarroi ! Comme une gerbe, son lien rompu,
+             <lb/><space quantity="1"/>Ô notre désarroi&#160;! Comme une gerbe, son lien rompu,
          cesse d’être gerbe et se nie en chacun de ses épis épars, ce
          lieu défait retombe à l’incertain et nous attire avec lui dans
          son vertige.</p>
-         <p>L’espace lui-même n’est plus sûr.</p>
+         <p>L’espace lui-même n’est plus sûr.
+             <lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/></p>
          
          <p>(Non, ce n’est pas la demeure d’ici désemparée, fléchissant
          sous sa chape de solitude, c’est l’autre qui nous attend,
-         l’autre. Ô <placeName ref="http://rdfh.ch/0112/EZAuzs_eSdi4bRzhVgNZxA" knoraLink="http://rdfh.ch/0112/EZAuzs_eSdi4bRzhVgNZxA">maison natale</placeName> ! Comme une tache de neige la nuit,
+         l’autre. Ô <placeName ref="http://rdfh.ch/0112/EZAuzs_eSdi4bRzhVgNZxA" knoraLink="http://rdfh.ch/0112/EZAuzs_eSdi4bRzhVgNZxA">maison natale</placeName>&#160;! Comme une tache de neige la nuit,
          ses murs luisent doucement derrière un réseau de ramures et
          d’années, au fond du temps, parmi les vertigineuses prairies
          de l’enfance. Si vastes que nulle voix n’aurait pu rejoindre
@@ -370,22 +374,23 @@
          les gras quartiers de lard gris et rose. Mais quelqu’un au loin
          les hélait enfin à pleine corne et l’invite roulait longuement
          par l’étendue comme une sourde chaîne de sons sans écho.
-         <lb/>Contre le mur d’ici, pendue au cordon de laine, cette
+             <lb/><space quantity="1"/>Contre le mur d’ici, pendue au cordon de laine, cette
          creuse corne veinée et lisse, une tache de lumière à l’embouchoir,
          cent fois je l’ai saisie, mise aux lèvres, retirée. Ses
-         appels jadis traversaient l’espace ; aujourd’hui c’est le temps
+         appels jadis traversaient l’espace&#160;; aujourd’hui c’est le temps
          encore impur qu’ils devraient vaincre. On ne triche pas avec
-         lui. La ranimer avec mon souffle ? Éveiller à demi les anciens
-         porteurs de faux ? Quel trouble, quelles terreurs saisiraient
+         lui. La ranimer avec mon souffle&#160;? Éveiller à demi les anciens
+         porteurs de faux&#160;? Quel trouble, quelles terreurs saisiraient
          ces ombres presque aveugles, perdues loin du sentier parmi
          les hautes graminées ou prises encore jusqu’au genou dans
-         une flaque de néant !
-         <lb/>Ô mère, garde-moi de ce jeu cruel, que je puisse un jour
-         franchir le seuil sans fraude.)</p>
+         une flaque de néant&#160;!
+             <lb/><space quantity="1"/>Ô mère, garde-moi de ce jeu cruel, que je puisse un jour
+             franchir le seuil sans fraude.) <lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/></p>
          
-         <p>Mais l’infinie fidélité des oiseaux…</p>
+             <p>Mais l’infinie fidélité des oiseaux…</p>
+             
          <p>Dès l’enfance, le royaume de leur chant et de leur vol
-         ouvert comme un miséricordieux refuge ! Les déserts d’une
+         ouvert comme un miséricordieux refuge&#160;! Les déserts d’une
          âme sans voix soudain peuplés de leur voix, le poète racheté
          de son silence, quand la jubilation des alouettes émeut le
          ciel jusqu’à sa cime. Un seul merle dans la haie encore nue
@@ -393,24 +398,25 @@
          l’averse de juin, le noir greffier du petit jour, notre bourreau,
          cesse aussitôt de requérir, de torturer, se dissout et s’écoule
          au fil de l’ombre.
-         <lb/>Leur fidélité, leur familiarité, leur pitié délicate ! Et leur
-         détresse, parfois, soeur profonde de la vôtre. C’est elle qui fait
+             <lb/><space quantity="1"/>Leur fidélité, leur familiarité, leur pitié délicate&#160;! Et leur
+         détresse, parfois, sœur profonde de la vôtre. C’est elle qui fait
          d’eux vos messagers, nos guides, toujours prompts à prendre
          relais de vos longs signaux exténués. Je n’ai pas su tout de
-         suite vous entendre : nul ne le peut sans avoir vu se décanter
+         suite vous entendre&#160;: nul ne le peut sans avoir vu se décanter
          lentement sa tristesse. Mais sitôt retrouvée une transparence,
          quel saisissement quand le bouvreuil dans le bosquet d’octobre,
          une flamme rose parmi les frênes aux feuilles noircies,
          m’a jeté son appel, cette plainte – la tienne, indubitable – qui
-         console et déchire un coeur mal résigné à l’adieu !
-         <lb/>Comme tu les aimais ! Rappelle-toi le rouge-gorge cerné
+         console et déchire un cœur mal résigné à l’adieu&#160;!
+             <lb/><space quantity="1"/>Comme tu les aimais&#160;! Rappelle-toi le rouge-gorge cerné
          par la neige, au fond du temps, jadis, dans le jardin perdu,
          son angoisse derrière la vitre aux pâles fougères de givre,
          l’arbre étrange où il nichait, ce dôme d’aiguilles impénétrable
-         au gel, et son nom oublié1, plus étrange encore.
-         <lb/>Remonteront-elles un jour de l’abîme temporel, ces syllabes
-         ensevelies ? L’à <hi rend="italic">jamais</hi> de ta voix tue se verra-t-il dénoué ?</p>
-         <p>Sans trêve, quotidiennement, j’interroge.</p>
+         au gel, et son nom oublié, plus étrange encore.
+             <lb/><space quantity="1"/>Remonteront-elles un jour de l’abîme temporel, ces syllabes
+             ensevelies&#160;? L’<hi rend="italic">à jamais</hi> de ta voix tue se verra-t-il dénoué&#160;?</p>
+         <p>Sans trêve, quotidiennement, j’interroge.
+             <lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/></p>
          
          <p>Hirondelle découvreuse d’espaces, corps sans poids sous
             les longues plumes d’acier bleui, <persName ref="http://rdfh.ch/0112/DINia9C4S4S8ALgmCklobw" knoraLink="http://rdfh.ch/0112/DINia9C4S4S8ALgmCklobw">une tache de sang immémoriale
@@ -420,83 +426,85 @@
          les jacinthes bouclées, et le rite accompli, remontais à ton
          chant, toujours plus serré, plus volubile. Compagne écoutée
          sans fin, sans fin contemplée, ouvrant, reployant une aile,
-         puis l’autre, avec des clins d’oeil alternés et ce grésillement
+         puis l’autre, avec des clins d’œil alternés et ce grésillement
          de gorge avant chaque pause de la voix, oh si semblable à tes
-         soeurs là-haut tournoyantes, si prête à les rejoindre au plein
+         sœurs là-haut tournoyantes, si prête à les rejoindre au plein
          du ciel que notre fraternité me semblait naître chaque jour
          d’un nouveau miracle…
-         <lb/>Je n’entendais pas le timide appel surgi peu à peu de ta
+             <lb/><space quantity="1"/>Je n’entendais pas le timide appel surgi peu à peu de ta
          seule fidélité de présence, je ne savais pas nos rencontres
          concertées ni pourquoi tes brusques fléchissements d’angoisse
-         au coeur même de l’exultation. Et toi, tout habitée
+         au cœur même de l’exultation. Et toi, tout habitée
          de ton secret, désireuse à mourir de m’en faire confidence,
          la ferveur, l’entêtement, la colère, le désespoir nourrissaient
          ton chant à le rompre. Tu tremblais, toute proche de la
          transe, et je voyais battre, battre ta gorge sous le bec entrouvert.
-             <lb/> Ah ! que peut un petit oiseau contre la vieille surdité des
-         hommes ? Ils épellent, oui, le roucoulement des ramiers ou
+             <lb/><space quantity="1"/>Ah&#160;! que peut un petit oiseau contre la vieille surdité des
+         hommes&#160;? Ils épellent, oui, le roucoulement des ramiers ou
          les exercices du merle, un soir, au bas du ciel d’avril, mais
          c’est pour perdre souffle à la première alouette. À mon tour,
          j’essayais de suivre note à note, haletant, ces effusions éperdues,
          comme on écoute déferler parfois aux lèvres des dormeurs
          un flux d’obscures paroles. Au-delà du chant, à travers
-         lui, je le pressentais : des choses étaient dites sans relâche
+         lui, je le pressentais&#160;: des choses étaient dites sans relâche
          où nous apprendrions enfin nos pouvoirs profonds. Mais
          quelque chose en moi demeurait clos à ce langage. Exclu
          de la merveille et du secret, rompu d’attente, chancelant
          comme un chercheur de trésors aux mains vides…
-         <lb/>Ô la tristesse des retours par les chemins de champs, la
+             <lb/><space quantity="1"/>Ô la tristesse des retours par les chemins de champs, la
          dernière alouette retombée aux chaumes, sous la voûte où
-         déjà s’illuminait le mortel affût des Guetteurs !</p>
+         déjà s’illuminait le mortel affût des Guetteurs&#160;!
+             <lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/></p>
          
          <p>Vos cris, vos chants… Qui se crispe et s’essouffle à les
-         déchiffrer à peine jaillis s’obstine en vain : j’ai subi la leçon
+         déchiffrer à peine jaillis s’obstine en vain&#160;: j’ai subi la leçon
          cruelle, mené des ans cette poursuite toujours prête à sombrer
          devant le <hi rend="italic">non</hi> d’un impossible échange.
-         <lb/>Mais dans le temps même où le chant de l’hirondelle
+             <lb/><space quantity="1"/>Mais dans le temps même où le chant de l’hirondelle
          au bord du matin s’amenuisait sans cesse, rongé par l’imminence
          de l’échec et redevenu peu à peu cette pauvre
          prière balbutiante, dans la région la plus obscure de l’être
          la lumière d’une sourde certitude, ô naissance inespérée,
          s’éveillait comme une réponse à la défaite du vouloir et du
          désir.
-         <lb/>Une vérité s’est levée en moi, pareille à cette pâleur d’horizon
+             <lb/><space quantity="1"/>Une vérité s’est levée en moi, pareille à cette pâleur d’horizon
          quand l’aube dégage de l’ombre sans violence le visage,
          les mains du marcheur nocturne et desserre doucement sa
-         gorge nouée. Tout ce que les oiseaux m’ont voulu dire et que
+         gorge nouée. Tout ce que les oiseaux m’ont <hi rend="italic">voulu</hi> dire et que
          j’avais laissé fuir, croyais-je, comme le vanneur maladroit jette
          sa graine aux vents avec la balle et les glumes, tout est sauvé,
-         tout a trouvé le chemin du coeur, ce creuset où leurs millions
+         tout a trouvé le chemin du cœur, ce creuset où leurs millions
          d’appels se fondent enfin dans l’or d’une voix unique. J’entends
          cet hymne sourdre en moi, chaque inflexion persuasive
          au-delà de toute parole – étrangement familière aussi.
-         Car c’est toi, oui, je te reconnais : disparue, mais plus proche
-         encore qu’au long des mois d’été, petite soeur véhémente.
+         Car c’est toi, oui, je te reconnais&#160;: disparue, mais plus proche
+         encore qu’au long des mois d’été, petite sœur véhémente.
          Vos nids sont vides, ces barques aériennes de paille et de
-         boue amarrées aux chevrons de l’avant-toit ; vous aviez peu à
-         peu rejoint le silence : plus de criantes chasses au crépuscule,
-         enfuis les essaims de moucherons dorés ! À peine quelques
-         pépiements d’angoisse avant l’immense envol…</p>
+         boue amarrées aux chevrons de l’avant-toit&#160;; vous aviez peu à
+         peu rejoint le silence&#160;: plus de criantes chasses au crépuscule,
+         enfuis les essaims de moucherons dorés&#160;! À peine quelques
+         pépiements d’angoisse avant l’immense envol…
+             <lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/></p>
          
          <p><hi rend="italic">… Nos pépiements angoissés, oui, et cette grande agitation
-         d’ailes : nous pressentions l’envol ; bientôt l’espace aurait pris sa
+         d’ailes&#160;: nous pressentions l’envol&#160;; bientôt l’espace aurait pris sa
          transparence. Il y tarde parfois, se feutre de brume à l’aube et des
          taches de nuages, la nuit, désorientent le ciel. Où lire notre route
-         dans cette confusion d’étoiles ?</hi>
-         <lb/>– Comme je l’ai vécue, votre inquiète attente aux crépuscules
+         dans cette confusion d’étoiles&#160;?</hi>
+             <lb/><space quantity="1"/>– Comme je l’ai vécue, votre inquiète attente aux crépuscules
          d’arrière-été, quand le jeune déchaumeur, la tête et la
          main levées, me désignait sans joie votre ronde là-haut fiévreuse
-         jusqu’au vertige !
-             <lb/><hi rend="italic">– Et moi, du ciel, je prenais soudain vos deux visages dans
+         jusqu’au vertige&#160;!
+             <lb/><space quantity="1"/><hi rend="italic">– Et moi, du ciel, je prenais soudain vos deux visages dans
          une boucle de vol, pour les perdre, les reprendre aussitôt… Mais
-         la grande nuit du départ ! Nos battements de plumes froissant les
+         la grande nuit du départ&#160;! Nos battements de plumes froissant les
          airs comme une soie, chacun de mes coups d’aile allégé par ce poids
-         de souvenirs et d’images : le nid au-dessus de la fontaine, hérissé de
-         petits becs béants, notre long compagnonnage, ce secret aussi qui
-         devait enfin t’appartenir !</hi>
-             <lb/>– Il m’appartient, oui, mais si grave (et comme voilé) que
+         de souvenirs et d’images&#160;: le nid au-dessus de la fontaine, hérissé de
+         petits becs béants, notre long compagnonnage, ce secret aussi qui</hi>
+         devait <hi rend="italic">enfin t’appartenir&#160;!</hi>
+             <lb/><space quantity="1"/>– Il m’appartient, oui, mais si grave (et comme voilé) que
          son approche m’intimide encore.
-             <lb/>Écoute, j’ai veillé parfois jusqu’à l’aube sur la colline
+             <lb/><space quantity="1"/>Écoute, j’ai veillé parfois jusqu’à l’aube sur la colline
          moissonnée. J’interrogeais sans fin le pur espace où bruissait
          encore, imperceptiblement, le vol de vos essaims invisibles.
          Peu à peu l’âme, étrangement, s’ouvrait à ces profondeurs
@@ -507,121 +515,128 @@
          but de votre vol pût m’apparaître, je l’entrevis <hi rend="italic">en moi</hi>, comme
          si je contenais le monde. Il n’y avait pas, il n’y aurait plus
          d’<hi rend="italic">ailleurs</hi>.
-             <lb/><hi rend="italic">– Enfin, le seuil du secret franchi ! Vite, avant que la vision
-         ne t’abandonne, apprends donc ton pouvoir ! Ne prolonge plus une
+             <lb/><space quantity="1"/><hi rend="italic">– Enfin, le seuil du secret franchi&#160;! Vite, avant que la vision
+         ne t’abandonne, apprends donc ton pouvoir&#160;! Ne prolonge plus une
          attente sans issue, ferme les yeux, contemple, éprouve ta profonde
-         réalité intérieure : ces grands espaces temporels liés entre eux par
+         réalité intérieure&#160;: ces grands espaces temporels liés entre eux par
          une transparence que l’amour seul peut parfaire. Qu’il y parvienne,
          et les retrouvailles sans prix te seront données. Oui, tu contiens le
-         monde ; il n’y a plus d’</hi>ailleurs <hi rend="italic">pour toi dans l’étendue. Il n’y en
-         aura plus au coeur du temps si tu l’assumes aussi et le cernes en toi
+         monde&#160;; il n’y a plus d’</hi>ailleurs <hi rend="italic">pour toi dans l’étendue. Il n’y en
+         aura plus au cœur du temps si tu l’assumes aussi et le cernes en toi
          pour une suprême décantation. Et celle qui s’était tue, comme reprise
          par la vague d’un infrangible sommeil plus puissant que vos deux
-         coeurs, c’est elle que tu vas rejoindre enfin.</hi>
-         <lb/>– Aurai-je quelque heure à préférer, quelque site ?
-         <lb/><hi rend="italic">– Gagne un de ces lieux où l’illumination d’une seconde t’a révélé
+         cœurs, c’est elle que tu vas rejoindre enfin.</hi>
+             <lb/><space quantity="1"/>– Aurai-je quelque heure à préférer, quelque site&#160;?
+             <lb/><space quantity="1"/><hi rend="italic">– Gagne un de ces lieux où l’illumination d’une seconde t’a révélé
          jadis à toi-même et lié du même coup à ce paysage d’accueil, toujours
          plus fraternel, jusqu’à sa plus douce colline, sa plus humble touffe
          de fleurs.</hi>
-         <lb/> – Oui, je saurai le choisir, m’étendre, fermer les yeux…
+             <lb/><space quantity="1"/>– Oui, je saurai le choisir, m’étendre, fermer les yeux…
          Mais ce revoir intérieur dont tu me fais l’annonce miséricordieuse,
-         je tremble à le sentir si proche. Ah ! je rêve d’une
+         je tremble à le sentir si proche. Ah&#160;! je rêve d’une
          présence pure, d’un jeune intercesseur, d’un frère de deuil
          à mes côtés, et nous irions ensemble vers la rencontre promise,
          chacun traversant sa propre transparence, pour parvenir
          enfin à cette lumière qui s’éveille aussi en chacun de
          nous, mais où <hi rend="italic">tous</hi> se retrouvent.
-         <lb/>Le laboureur qui me montrait au ciel de son village vos
+             <lb/><space quantity="1"/>Le laboureur qui me montrait au ciel de son village vos
          tournoiements d’inquiétude avait le regard brouillé de
          larmes et je n’osais lui demander le pourquoi de sa tristesse,
          mais ses lèvres soudain descellées, il a murmuré le nom
          d’une jeune morte, la voix rompue bientôt par ces difficiles
          sanglots d’homme où l’être tout entier se déchire.
-         <lb/>Ah ! courir à lui, le prendre par la main, l’amener sans
-         rien dire au bord du labour, dans l’herbe refleurie ; ensemble
+             <lb/><space quantity="1"/>Ah&#160;! courir à lui, le prendre par la main, l’amener sans
+         rien dire au bord du labour, dans l’herbe refleurie&#160;; ensemble
          (sur nos lèvres le nom de celle que nous avions perdue)
-         attendre que la voie s’ouvre en nous.</p>
+         attendre que la voie s’ouvre en nous. <lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/></p>
          
         <p> Ô mère, c’en est fini de ces questions remâchées au long
          des ans, dans l’usure de toute résignation, comme une herbe
          d’amertume.
-            <lb/>Ô mère, un oiseau m’a donné la <hi rend="italic">seule</hi> réponse. De deuil
+            <lb/><space quantity="1"/>Ô mère, un oiseau m’a donné la <hi rend="italic">seule</hi> réponse. De deuil
          en deuil, il a fallu toute une vie, toute ma vie pour recevoir
-         enfin ce don immérité : le secret qui va nous joindre.</p>
-        <p> Ô mère, écoute : il n’y a plus d’<hi rend="italic">ailleurs</hi>.</p>
+         enfin ce don immérité&#160;: le secret qui va nous joindre.</p>
+             <p> Ô mère, écoute&#160;: il n’y a plus d’<hi rend="italic">ailleurs</hi>.
+                 <lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/></p>
          
          <p>Le laboureur étendu près de moi, les yeux clos, la sombre
          frange des cils encore humide – mais aux mains de la lumière
          le jeune visage a retrouvé sa douceur. Le désordre des traits
          cède à l’impalpable caresse, le souffle s’allège, les sursauts
-         du coeur sont calmés. La poitrine pure se soulève et retombe
-         sans hâte ; elle découvre, cache, découvre au pied de la paille
-         d’or luisant une flaque de ciel : la touffe de bleuets sauvés
+         du cœur sont calmés. La poitrine pure se soulève et retombe
+         sans hâte&#160;; elle découvre, cache, découvre au pied de la paille
+         d’or luisant une flaque de ciel&#160;: la touffe de bleuets sauvés
          du soc par miracle… Ô frère, ta main crispée sur la mienne
-         s’abandonne ; la chaleur, le sang lui sont rendus. Je la sens
+         s’abandonne&#160;; la chaleur, le sang lui sont rendus. Je la sens
          et ne la sens plus qu’à peine, comme à l’instant d’un adieu,
          présence encore, mais faiblissante. Car tu t’éloignes, immobile
-         ; sous tes paupières fleurissent déjà les images du temps
-         retraversé ; tu me précèdes dans la transparence.</p>
+        &#160;; sous tes paupières fleurissent déjà les images du temps
+         retraversé&#160;; tu me précèdes dans la transparence.
+             <lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/></p>
          
          <p>
-             Ou vais-je rester prisonnier de l’instant et du lieu ?
-             <lb/>Mais comme une fraternelle réponse, tu souris, dormeur
+             Ou vais-je rester prisonnier de l’instant et du lieu&#160;?
+             <lb/><space quantity="1"/>Mais comme une fraternelle réponse, tu souris, dormeur
              tout proche, ton sourire est de qui n’osait espérer et voit
              soudain l’exaucement de son espérance. Il naît à tes lèvres
-             comme l’annonce éblouie de vos retrouvailles. Je le sais :
+             comme l’annonce éblouie de vos retrouvailles. Je le sais&#160;:
              maintenant je pourrai parcourir à mon tour ces espaces tout
              de suite ouverts à ton innocence, aussi purs que le ciel des
              migrateurs. Le pays autour de nous qui descendait vers le soir
              dans une gloire à chaque minute plus chaude et plus dorée,
              une autre lumière le saisit aujourd’hui, sourdement infuse
-             dans l’étendue, fixe, pâle comme un lait diaphane. Oh ! je
+             dans l’étendue, fixe, pâle comme un lait diaphane. Oh&#160;! je
              la reconnais, cette clarté de septembre toujours plus douce
              et plus hardie. Elle caresse et fige à la fois. Elle interrompt
              l’échange mouvant des formes et des ombres. Tout s’isole,
              se dépouille, se resserre sur soi-même, retrouve la gravité,
-             la paix d’une immuable présence au coeur du cristal absolu.
+             la paix d’une immuable présence au cœur du cristal absolu.
              Lumière blanche comme une voix blanche, je n’entends
              plus qu’elle, prisonnier peut-être d’un mirage sans durée.
-             <lb/> Non, l’hirondelle n’a pas menti. La longue chaîne de
+             <lb/><space quantity="1"/>Non, l’hirondelle n’a pas menti. La longue chaîne de
              bleus qui portait jusqu’à l’horizon ma pensée se rompt et se
-             disperse : belles ombres couleur de lavande sur la poussière
+             disperse&#160;: belles ombres couleur de lavande sur la poussière
              du chemin, fumées des feux de fanes et celles qui couronnent
              la sombre rose d’un village perdu, les monts là-bas au bord
              du ciel, une jonchée de gentianes, et le ciel lui-même, sous
              la lente paupière des nuages, comme un regard… Je les vois
              pâlir, se dissoudre peu à peu (et ton corps lui-même) dans
              l’étendue, comme les nuages brouilleurs d’étoiles avant la
-             nuit d’envol des oiseaux : une vapeur, une buée encore, puis
+             nuit d’envol des oiseaux&#160;: une vapeur, une buée encore, puis
              l’indicible avènement de la transparence. Seul, étrangement,
              l’azur des bleuets épargnés s’avive au seuil du gouffre d’espace
              et de temps pur, tache de ciel, lueur bientôt, sous mes
              paupières closes, d’un bleu si tendre qu’il émeut comme un
              innombrable appel.
-             <lb/>Déjà (mais ce mot hors du temps vient de mourir) du
+             <lb/><space quantity="1"/>Déjà (mais ce mot hors du temps vient de mourir) du
          plus lointain de l’abîme un écho s’efforce à répondre, plus
          fragile qu’un jeune germe hors du terreau de silence, dans
-         la lumière d’éternité.</p>
+         la lumière d’éternité.
+             <lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/></p>
          
-         <p><hi rend="italic">Une tache de ciel</hi></p>
+         <p><hi rend="italic">Une tache de ciel</hi>
+             <lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/></p>
          
          
          <p><hi rend="italic">une tache couleur de ciel</hi></p>
-         <p><hi rend="align-right">le bleu profond des corolles en couronne</hi><space quantity="2"/></p>
-         <p>je me penche, tends la main : nul bleuet, mon Dieu, mais
+             
+             <p><space quantity="3"/>le bleu profond des corolles en couronne</p>
+             
+             
+         <p>je me penche, tends la main&#160;: nul bleuet, mon Dieu, mais
          les fleurs dont j’ai cherché toute ma vie un reflet dans le
-         regard des hommes… Ah ! les voici retrouvées, ces petites
+         regard des hommes… Ah&#160;! les voici retrouvées, ces petites
          anémones apennines, taches d’azur, jadis, amas d’étoiles hors
          des feuilles en fouillis léger, dans l’ombre, sous le sorbier de 
          notre jardin, ô mère, sous le sorbier du Jardin.
-         </p>
+             <lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/></p>
          
          <p>Agenouillé de nouveau devant elles, réaccueilli par le
          monde des fleurs qu’à peine le berceau quitté je découvrais,
          balbutiant de joie, au bord des corbeilles versicolores, dans
          l’odeur de l’herbe froissée, visité tour à tour par une procession
          de parfums… Ils se raniment, ils baignent de nouveau
-         ma nuque ; chaque souffle descendu des monts les recueille
+         ma nuque&#160;; chaque souffle descendu des monts les recueille
          et me les apporte, ayant frôlé le jasmin, le buis amer et les
          lilas. Ils raniment à leur tour l’espace, et la façade apparue
          m’appelle de sa lueur comme un long chant de neige. Le pin
@@ -629,11 +644,11 @@
          pruniers moribonds. Ô ces présences autour de moi qui se
          lèvent et recomposent dans la fièvre et la paix la <hi rend="italic">toute</hi>-présence,
          comme pour guérir ce lieu de sa blessure d’attente
-         infinie ! Là-bas le valet bleu s’arrête, attire de son râteau, hors
+         infinie&#160;! Là-bas le valet bleu s’arrête, attire de son râteau, hors
          du ciel, une touffe de cerises suspendue et la belle couleuvre
          à ses pieds sinue et s’enfuit dans un frémissement d’herbes
          hautes.
-         <lb/>Je reconnais, je connais toutes choses, moi-même reconnu,
+             <lb/><space quantity="1"/>Je reconnais, je connais toutes choses, moi-même reconnu,
          salué, dans la lumière où joue le rouge-gorge orange et gris
          comme une fausse feuille morte. Il s’approche, s’éloigne vers
          son arbre au nom retrouvé, revient, me suit, me cerne, m’accompagne
